@@ -1,0 +1,422 @@
+{
+    "history": [
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Cost",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "NSGAII",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "NSGAII",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Cost",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Cost",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "NSGAII",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Cost",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "NSGAII",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Exact_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        },
+        {
+            "actual_performance": 0.0,
+            "algorithm_name": "Greedy_Time",
+            "computation_time": 0.0,
+            "expected_performance": 0.0,
+            "parameters": null
+        }
+    ],
+    "statistics": {
+        "average_performance": 0.0,
+        "successful_recommendations": 0,
+        "total_scenarios": 59
+    }
+}

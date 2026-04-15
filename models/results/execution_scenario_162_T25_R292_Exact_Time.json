@@ -1,0 +1,2976 @@
+{
+    "result": {
+        "attack_plan": [
+            {
+                "target_name": "target0",
+                "targetType": "mount2#load2-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_55",
+                        "force_type": "plane2",
+                        "attack_time": "0.177735",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_189",
+                        "force_type": "plane2",
+                        "attack_time": "0.188706",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_237",
+                        "force_type": "plane2",
+                        "attack_time": "0.209386",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_170",
+                        "force_type": "plane2",
+                        "attack_time": "0.224782",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target1",
+                "targetType": "mount5#load5-150",
+                "attackPlanNum": "5",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_102",
+                        "force_type": "vehical2",
+                        "attack_time": "0.172498",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_75",
+                        "force_type": "vehical2",
+                        "attack_time": "0.174206",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_91",
+                        "force_type": "vehical2",
+                        "attack_time": "0.195498",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_22",
+                        "force_type": "vehical2",
+                        "attack_time": "0.222719",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_208",
+                        "force_type": "vehical2",
+                        "attack_time": "0.247814",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "target_name": "target2",
+                "targetType": "mount2#load2-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_139",
+                        "force_type": "plane2",
+                        "attack_time": "0.121562",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_56",
+                        "force_type": "plane2",
+                        "attack_time": "0.124176",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_135",
+                        "force_type": "plane2",
+                        "attack_time": "0.146182",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_191",
+                        "force_type": "plane2",
+                        "attack_time": "0.172364",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target3",
+                "targetType": "mount1#load1-120",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_283",
+                        "force_type": "plane1",
+                        "attack_time": "0.323176",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_148",
+                        "force_type": "plane1",
+                        "attack_time": "0.326376",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_207",
+                        "force_type": "plane1",
+                        "attack_time": "0.397157",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_271",
+                        "force_type": "plane1",
+                        "attack_time": "0.397157",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "target_name": "target4",
+                "targetType": "mount1#load1-120",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_252",
+                        "force_type": "plane1",
+                        "attack_time": "0.261374",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_286",
+                        "force_type": "plane1",
+                        "attack_time": "0.303616",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_285",
+                        "force_type": "plane1",
+                        "attack_time": "0.326717",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_105",
+                        "force_type": "plane1",
+                        "attack_time": "0.341568",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "target_name": "target5",
+                "targetType": "mount3#load3-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_68",
+                        "force_type": "plane2",
+                        "attack_time": "0.241497",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_190",
+                        "force_type": "plane2",
+                        "attack_time": "0.243733",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_86",
+                        "force_type": "plane2",
+                        "attack_time": "0.277086",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_186",
+                        "force_type": "plane2",
+                        "attack_time": "0.286122",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target6",
+                "targetType": "mount5#load5-150",
+                "attackPlanNum": "5",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_199",
+                        "force_type": "vehical2",
+                        "attack_time": "0.170169",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_20",
+                        "force_type": "vehical2",
+                        "attack_time": "0.175543",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_194",
+                        "force_type": "vehical2",
+                        "attack_time": "0.175543",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_17",
+                        "force_type": "vehical2",
+                        "attack_time": "0.198531",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_272",
+                        "force_type": "vehical2",
+                        "attack_time": "0.252676",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "target_name": "target7",
+                "targetType": "mount4#load4-240",
+                "attackPlanNum": "6",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_118",
+                        "force_type": "vehical1",
+                        "attack_time": "0.418776",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_246",
+                        "force_type": "vehical1",
+                        "attack_time": "0.431596",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_226",
+                        "force_type": "vehical1",
+                        "attack_time": "0.440587",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_214",
+                        "force_type": "vehical1",
+                        "attack_time": "0.480641",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_2",
+                        "force_type": "vehical1",
+                        "attack_time": "0.491819",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_42",
+                        "force_type": "vehical1",
+                        "attack_time": "0.612991",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "target_name": "target8",
+                "targetType": "mount5#load5-150",
+                "attackPlanNum": "5",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_6",
+                        "force_type": "vehical2",
+                        "attack_time": "0.117318",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_134",
+                        "force_type": "vehical2",
+                        "attack_time": "0.130070",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_249",
+                        "force_type": "vehical2",
+                        "attack_time": "0.130070",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_121",
+                        "force_type": "vehical2",
+                        "attack_time": "0.134454",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_185",
+                        "force_type": "vehical2",
+                        "attack_time": "0.155408",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "target_name": "target9",
+                "targetType": "mount3#load3-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_162",
+                        "force_type": "plane2",
+                        "attack_time": "0.156273",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_0",
+                        "force_type": "plane2",
+                        "attack_time": "0.162853",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_188",
+                        "force_type": "plane2",
+                        "attack_time": "0.173831",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_279",
+                        "force_type": "plane2",
+                        "attack_time": "0.209068",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target10",
+                "targetType": "mount4#load4-240",
+                "attackPlanNum": "6",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_78",
+                        "force_type": "vehical1",
+                        "attack_time": "0.440634",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_233",
+                        "force_type": "vehical1",
+                        "attack_time": "0.445040",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_27",
+                        "force_type": "vehical1",
+                        "attack_time": "0.494489",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_66",
+                        "force_type": "vehical1",
+                        "attack_time": "0.517488",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_73",
+                        "force_type": "vehical1",
+                        "attack_time": "0.577974",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_144",
+                        "force_type": "vehical1",
+                        "attack_time": "0.717806",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "target_name": "target11",
+                "targetType": "mount1#load1-120",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_38",
+                        "force_type": "plane1",
+                        "attack_time": "0.385788",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_72",
+                        "force_type": "plane1",
+                        "attack_time": "0.398100",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_53",
+                        "force_type": "plane1",
+                        "attack_time": "0.479762",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_40",
+                        "force_type": "plane1",
+                        "attack_time": "0.505695",
+                        "weapon_type": "mount1#load1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "target_name": "target12",
+                "targetType": "mount3#load3-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_117",
+                        "force_type": "plane2",
+                        "attack_time": "0.434109",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_206",
+                        "force_type": "plane2",
+                        "attack_time": "0.434109",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_275",
+                        "force_type": "plane2",
+                        "attack_time": "0.478633",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_63",
+                        "force_type": "plane2",
+                        "attack_time": "0.654972",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target13",
+                "targetType": "mount4#load4-240",
+                "attackPlanNum": "6",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_79",
+                        "force_type": "vehical1",
+                        "attack_time": "0.386428",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_200",
+                        "force_type": "vehical1",
+                        "attack_time": "0.390109",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_228",
+                        "force_type": "vehical1",
+                        "attack_time": "0.435760",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_259",
+                        "force_type": "vehical1",
+                        "attack_time": "0.455127",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_32",
+                        "force_type": "vehical1",
+                        "attack_time": "0.505696",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_146",
+                        "force_type": "vehical1",
+                        "attack_time": "0.611364",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "target_name": "target14",
+                "targetType": "mount2#load2-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_45",
+                        "force_type": "plane2",
+                        "attack_time": "0.121549",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_140",
+                        "force_type": "plane2",
+                        "attack_time": "0.137467",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_111",
+                        "force_type": "plane2",
+                        "attack_time": "0.146167",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_147",
+                        "force_type": "plane2",
+                        "attack_time": "0.153963",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target15",
+                "targetType": "mount2#load2-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_222",
+                        "force_type": "plane2",
+                        "attack_time": "0.170375",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_129",
+                        "force_type": "plane2",
+                        "attack_time": "0.204450",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_254",
+                        "force_type": "plane2",
+                        "attack_time": "0.212416",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_240",
+                        "force_type": "plane2",
+                        "attack_time": "0.212416",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target16",
+                "targetType": "mount4#load4-240",
+                "attackPlanNum": "6",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_106",
+                        "force_type": "vehical1",
+                        "attack_time": "0.229057",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_76",
+                        "force_type": "vehical1",
+                        "attack_time": "0.236215",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_25",
+                        "force_type": "vehical1",
+                        "attack_time": "0.246485",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_101",
+                        "force_type": "vehical1",
+                        "attack_time": "0.257689",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_122",
+                        "force_type": "vehical1",
+                        "attack_time": "0.287046",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_177",
+                        "force_type": "vehical1",
+                        "attack_time": "0.333479",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "target_name": "target17",
+                "targetType": "mount3#load3-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_81",
+                        "force_type": "plane2",
+                        "attack_time": "0.120146",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_47",
+                        "force_type": "plane2",
+                        "attack_time": "0.143551",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_62",
+                        "force_type": "plane2",
+                        "attack_time": "0.151416",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_119",
+                        "force_type": "plane2",
+                        "attack_time": "0.197382",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target18",
+                "targetType": "mount5#load5-150",
+                "attackPlanNum": "5",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_49",
+                        "force_type": "vehical2",
+                        "attack_time": "0.080364",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_171",
+                        "force_type": "vehical2",
+                        "attack_time": "0.088735",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_211",
+                        "force_type": "vehical2",
+                        "attack_time": "0.092593",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_151",
+                        "force_type": "vehical2",
+                        "attack_time": "0.146872",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_256",
+                        "force_type": "vehical2",
+                        "attack_time": "0.154884",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "target_name": "target19",
+                "targetType": "mount3#load3-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_95",
+                        "force_type": "plane2",
+                        "attack_time": "0.031777",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_97",
+                        "force_type": "plane2",
+                        "attack_time": "0.035851",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_273",
+                        "force_type": "plane2",
+                        "attack_time": "0.038307",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_124",
+                        "force_type": "plane2",
+                        "attack_time": "0.046607",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target20",
+                "targetType": "mount2#load2-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_180",
+                        "force_type": "plane2",
+                        "attack_time": "0.400057",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_230",
+                        "force_type": "plane2",
+                        "attack_time": "0.440062",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_264",
+                        "force_type": "plane2",
+                        "attack_time": "0.445007",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_163",
+                        "force_type": "plane2",
+                        "attack_time": "0.521126",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target21",
+                "targetType": "mount5#load5-150",
+                "attackPlanNum": "5",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_289",
+                        "force_type": "vehical2",
+                        "attack_time": "0.431598",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_150",
+                        "force_type": "vehical2",
+                        "attack_time": "0.445520",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_21",
+                        "force_type": "vehical2",
+                        "attack_time": "0.511523",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_98",
+                        "force_type": "vehical2",
+                        "attack_time": "0.609315",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    },
+                    {
+                        "fleet": "force_87",
+                        "force_type": "vehical2",
+                        "attack_time": "0.690557",
+                        "weapon_type": "mount5#load5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "target_name": "target22",
+                "targetType": "mount2#load2-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_143",
+                        "force_type": "plane2",
+                        "attack_time": "0.108768",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_103",
+                        "force_type": "plane2",
+                        "attack_time": "0.120055",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_262",
+                        "force_type": "plane2",
+                        "attack_time": "0.133956",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_175",
+                        "force_type": "plane2",
+                        "attack_time": "0.153323",
+                        "weapon_type": "mount2#load2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "target_name": "target23",
+                "targetType": "mount4#load4-240",
+                "attackPlanNum": "6",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_238",
+                        "force_type": "vehical1",
+                        "attack_time": "0.126980",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_14",
+                        "force_type": "vehical1",
+                        "attack_time": "0.156609",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_235",
+                        "force_type": "vehical1",
+                        "attack_time": "0.160168",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_155",
+                        "force_type": "vehical1",
+                        "attack_time": "0.169817",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_167",
+                        "force_type": "vehical1",
+                        "attack_time": "0.198518",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    },
+                    {
+                        "fleet": "force_178",
+                        "force_type": "vehical1",
+                        "attack_time": "0.223727",
+                        "weapon_type": "mount4#load4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "target_name": "target24",
+                "targetType": "mount3#load3-200",
+                "attackPlanNum": "4",
+                "attackTargetPlan": [
+                    {
+                        "fleet": "force_152",
+                        "force_type": "plane2",
+                        "attack_time": "0.006764",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_258",
+                        "force_type": "plane2",
+                        "attack_time": "0.006859",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_280",
+                        "force_type": "plane2",
+                        "attack_time": "0.006957",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    },
+                    {
+                        "fleet": "force_131",
+                        "force_type": "plane2",
+                        "attack_time": "0.007379",
+                        "weapon_type": "mount3#load3",
+                        "weapon_num": "50"
+                    }
+                ]
+            }
+        ],
+        "used_airforce": [
+            {
+                "airport": "base1",
+                "used_plane_name": "force_0,force_2,force_6,force_14,force_17,force_20,force_21,force_22,force_25,force_27,force_32,force_38,force_40,force_42,force_45,force_47,force_49,force_53,force_55,force_56,force_62,force_63,force_66,force_68,force_72,force_73,force_75,force_76,force_78,force_79,force_81,force_86,force_87,force_91,force_95,force_97,force_98,force_101,force_102,force_103,force_105,force_106,force_111,force_117,force_118,force_119,force_121,force_122,force_124,force_129,force_131,force_134,force_135,force_139,force_140,force_143,force_144,force_146,force_147,force_148,force_150,force_151,force_152,force_155,force_162,force_163,force_167,force_170,force_171,force_175,force_177,force_178,force_180,force_185,force_186,force_188,force_189,force_190,force_191,force_194,force_199,force_200,force_206,force_207,force_208,force_211,force_214,force_222,force_226,force_228,force_230,force_233,force_235,force_237,force_238,force_240,force_246,force_249,force_252,force_254,force_256,force_258,force_259,force_262,force_264,force_271,force_272,force_273,force_275,force_279,force_280,force_283,force_285,force_286,force_289",
+                "used_plane_num": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                "used_plane_type": "plane2,vehical1,vehical2,vehical1,vehical2,vehical2,vehical2,vehical2,vehical1,vehical1,vehical1,plane1,plane1,vehical1,plane2,plane2,vehical2,plane1,plane2,plane2,plane2,plane2,vehical1,plane2,plane1,vehical1,vehical2,vehical1,vehical1,vehical1,plane2,plane2,vehical2,vehical2,plane2,plane2,vehical2,vehical1,vehical2,plane2,plane1,vehical1,plane2,plane2,vehical1,plane2,vehical2,vehical1,plane2,plane2,plane2,vehical2,plane2,plane2,plane2,plane2,vehical1,vehical1,plane2,plane1,vehical2,vehical2,plane2,vehical1,plane2,plane2,vehical1,plane2,vehical2,plane2,vehical1,vehical1,plane2,vehical2,plane2,plane2,plane2,plane2,plane2,vehical2,vehical2,vehical1,plane2,plane1,vehical2,vehical2,vehical1,plane2,vehical1,vehical1,plane2,vehical1,vehical1,plane2,vehical1,plane2,vehical1,vehical2,plane1,plane2,vehical2,plane2,vehical1,plane2,plane2,plane1,vehical2,plane2,plane2,plane2,plane2,plane1,plane1,plane1,vehical2",
+                "used_weapon_type": "mount1,mount2,mount3,mount4,mount5",
+                "used_weapon_num": "360,1200,1200,1200,750",
+                "used_warhead_type": "load4,load3,load5,load2,load1",
+                "used_warhead_num": "1200,1200,750,1200,360"
+            }
+        ],
+        "assign_plan": [
+            {
+                "force_name": "force_0",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.325705",
+                "total_cost": "0.401305",
+                "targetsList": [
+                    {
+                        "target_name": "target9",
+                        "target_distance": "7.735500",
+                        "arrival_time": "0.162853",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_45",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.243099",
+                "total_cost": "0.519992",
+                "targetsList": [
+                    {
+                        "target_name": "target14",
+                        "target_distance": "5.773600",
+                        "arrival_time": "0.121549",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_47",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.287101",
+                "total_cost": "0.488972",
+                "targetsList": [
+                    {
+                        "target_name": "target17",
+                        "target_distance": "5.526700",
+                        "arrival_time": "0.143551",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_55",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.355470",
+                "total_cost": "0.148386",
+                "targetsList": [
+                    {
+                        "target_name": "target0",
+                        "target_distance": "7.642600",
+                        "arrival_time": "0.177735",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_56",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.248353",
+                "total_cost": "0.607584",
+                "targetsList": [
+                    {
+                        "target_name": "target2",
+                        "target_distance": "5.774200",
+                        "arrival_time": "0.124176",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_62",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.302833",
+                "total_cost": "0.550632",
+                "targetsList": [
+                    {
+                        "target_name": "target17",
+                        "target_distance": "5.526700",
+                        "arrival_time": "0.151416",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_63",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "1.309944",
+                "total_cost": "0.401731",
+                "targetsList": [
+                    {
+                        "target_name": "target12",
+                        "target_distance": "18.666700",
+                        "arrival_time": "0.654972",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_68",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.482994",
+                "total_cost": "0.451881",
+                "targetsList": [
+                    {
+                        "target_name": "target5",
+                        "target_distance": "13.161600",
+                        "arrival_time": "0.241497",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_81",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.240291",
+                "total_cost": "0.714949",
+                "targetsList": [
+                    {
+                        "target_name": "target17",
+                        "target_distance": "5.526700",
+                        "arrival_time": "0.120146",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_86",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.554173",
+                "total_cost": "0.321259",
+                "targetsList": [
+                    {
+                        "target_name": "target5",
+                        "target_distance": "13.161600",
+                        "arrival_time": "0.277086",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_95",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.063555",
+                "total_cost": "0.448903",
+                "targetsList": [
+                    {
+                        "target_name": "target19",
+                        "target_distance": "1.398200",
+                        "arrival_time": "0.031777",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_97",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.071703",
+                "total_cost": "0.462510",
+                "targetsList": [
+                    {
+                        "target_name": "target19",
+                        "target_distance": "1.398200",
+                        "arrival_time": "0.035851",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_103",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.240109",
+                "total_cost": "0.770368",
+                "targetsList": [
+                    {
+                        "target_name": "target22",
+                        "target_distance": "6.362900",
+                        "arrival_time": "0.120055",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_111",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.292334",
+                "total_cost": "0.258175",
+                "targetsList": [
+                    {
+                        "target_name": "target14",
+                        "target_distance": "5.773600",
+                        "arrival_time": "0.146167",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_117",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.868219",
+                "total_cost": "0.425520",
+                "targetsList": [
+                    {
+                        "target_name": "target12",
+                        "target_distance": "18.666700",
+                        "arrival_time": "0.434109",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_119",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.394764",
+                "total_cost": "0.635374",
+                "targetsList": [
+                    {
+                        "target_name": "target17",
+                        "target_distance": "5.526700",
+                        "arrival_time": "0.197382",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_124",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.093213",
+                "total_cost": "0.384994",
+                "targetsList": [
+                    {
+                        "target_name": "target19",
+                        "target_distance": "1.398200",
+                        "arrival_time": "0.046607",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_129",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.408900",
+                "total_cost": "0.762919",
+                "targetsList": [
+                    {
+                        "target_name": "target15",
+                        "target_distance": "8.178000",
+                        "arrival_time": "0.204450",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_131",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.014758",
+                "total_cost": "0.150929",
+                "targetsList": [
+                    {
+                        "target_name": "target24",
+                        "target_distance": "0.243500",
+                        "arrival_time": "0.007379",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_135",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.292365",
+                "total_cost": "0.559099",
+                "targetsList": [
+                    {
+                        "target_name": "target2",
+                        "target_distance": "5.774200",
+                        "arrival_time": "0.146182",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_139",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.243124",
+                "total_cost": "0.182155",
+                "targetsList": [
+                    {
+                        "target_name": "target2",
+                        "target_distance": "5.774200",
+                        "arrival_time": "0.121562",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_140",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.274933",
+                "total_cost": "0.646496",
+                "targetsList": [
+                    {
+                        "target_name": "target14",
+                        "target_distance": "5.773600",
+                        "arrival_time": "0.137467",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_143",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.217535",
+                "total_cost": "0.498732",
+                "targetsList": [
+                    {
+                        "target_name": "target22",
+                        "target_distance": "6.362900",
+                        "arrival_time": "0.108768",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_147",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.307925",
+                "total_cost": "0.704580",
+                "targetsList": [
+                    {
+                        "target_name": "target14",
+                        "target_distance": "5.773600",
+                        "arrival_time": "0.153963",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_152",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.013528",
+                "total_cost": "0.561127",
+                "targetsList": [
+                    {
+                        "target_name": "target24",
+                        "target_distance": "0.243500",
+                        "arrival_time": "0.006764",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_162",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.312545",
+                "total_cost": "0.800876",
+                "targetsList": [
+                    {
+                        "target_name": "target9",
+                        "target_distance": "7.735500",
+                        "arrival_time": "0.156273",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_163",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "1.042253",
+                "total_cost": "0.741513",
+                "targetsList": [
+                    {
+                        "target_name": "target20",
+                        "target_distance": "19.802800",
+                        "arrival_time": "0.521126",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_170",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.449565",
+                "total_cost": "0.461374",
+                "targetsList": [
+                    {
+                        "target_name": "target0",
+                        "target_distance": "7.642600",
+                        "arrival_time": "0.224782",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_175",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.306646",
+                "total_cost": "0.637095",
+                "targetsList": [
+                    {
+                        "target_name": "target22",
+                        "target_distance": "6.362900",
+                        "arrival_time": "0.153323",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_180",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.800113",
+                "total_cost": "0.345622",
+                "targetsList": [
+                    {
+                        "target_name": "target20",
+                        "target_distance": "19.802800",
+                        "arrival_time": "0.400057",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_186",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.572243",
+                "total_cost": "0.466021",
+                "targetsList": [
+                    {
+                        "target_name": "target5",
+                        "target_distance": "13.161600",
+                        "arrival_time": "0.286122",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_188",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.347663",
+                "total_cost": "0.230414",
+                "targetsList": [
+                    {
+                        "target_name": "target9",
+                        "target_distance": "7.735500",
+                        "arrival_time": "0.173831",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_189",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.377412",
+                "total_cost": "0.370100",
+                "targetsList": [
+                    {
+                        "target_name": "target0",
+                        "target_distance": "7.642600",
+                        "arrival_time": "0.188706",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_190",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.487467",
+                "total_cost": "0.828093",
+                "targetsList": [
+                    {
+                        "target_name": "target5",
+                        "target_distance": "13.161600",
+                        "arrival_time": "0.243733",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_191",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.344728",
+                "total_cost": "0.358762",
+                "targetsList": [
+                    {
+                        "target_name": "target2",
+                        "target_distance": "5.774200",
+                        "arrival_time": "0.172364",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_206",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.868219",
+                "total_cost": "0.660192",
+                "targetsList": [
+                    {
+                        "target_name": "target12",
+                        "target_distance": "18.666700",
+                        "arrival_time": "0.434109",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_222",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.340750",
+                "total_cost": "0.109808",
+                "targetsList": [
+                    {
+                        "target_name": "target15",
+                        "target_distance": "8.178000",
+                        "arrival_time": "0.170375",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_230",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.880124",
+                "total_cost": "0.190188",
+                "targetsList": [
+                    {
+                        "target_name": "target20",
+                        "target_distance": "19.802800",
+                        "arrival_time": "0.440062",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_237",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.418773",
+                "total_cost": "0.205471",
+                "targetsList": [
+                    {
+                        "target_name": "target0",
+                        "target_distance": "7.642600",
+                        "arrival_time": "0.209386",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_240",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.424831",
+                "total_cost": "0.163235",
+                "targetsList": [
+                    {
+                        "target_name": "target15",
+                        "target_distance": "8.178000",
+                        "arrival_time": "0.212416",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_254",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.424831",
+                "total_cost": "0.748264",
+                "targetsList": [
+                    {
+                        "target_name": "target15",
+                        "target_distance": "8.178000",
+                        "arrival_time": "0.212416",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_258",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.013718",
+                "total_cost": "0.378703",
+                "targetsList": [
+                    {
+                        "target_name": "target24",
+                        "target_distance": "0.243500",
+                        "arrival_time": "0.006859",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_262",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.267912",
+                "total_cost": "0.128311",
+                "targetsList": [
+                    {
+                        "target_name": "target22",
+                        "target_distance": "6.362900",
+                        "arrival_time": "0.133956",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_264",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.890013",
+                "total_cost": "0.693760",
+                "targetsList": [
+                    {
+                        "target_name": "target20",
+                        "target_distance": "19.802800",
+                        "arrival_time": "0.445007",
+                        "weapon_type": "mount2",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_273",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.076614",
+                "total_cost": "0.546481",
+                "targetsList": [
+                    {
+                        "target_name": "target19",
+                        "target_distance": "1.398200",
+                        "arrival_time": "0.038307",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_275",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.957267",
+                "total_cost": "0.400004",
+                "targetsList": [
+                    {
+                        "target_name": "target12",
+                        "target_distance": "18.666700",
+                        "arrival_time": "0.478633",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_279",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.418135",
+                "total_cost": "0.691667",
+                "targetsList": [
+                    {
+                        "target_name": "target9",
+                        "target_distance": "7.735500",
+                        "arrival_time": "0.209068",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_280",
+                "force_type": "plane2",
+                "mount": "mount2,mount3",
+                "capacity": "50,50",
+                "total_time": "0.013914",
+                "total_cost": "0.467371",
+                "targetsList": [
+                    {
+                        "target_name": "target24",
+                        "target_distance": "0.243500",
+                        "arrival_time": "0.006957",
+                        "weapon_type": "mount3",
+                        "weapon_num": "50"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_38",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.771575",
+                "total_cost": "0.441687",
+                "targetsList": [
+                    {
+                        "target_name": "target11",
+                        "target_distance": "18.710700",
+                        "arrival_time": "0.385788",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_40",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "1.011389",
+                "total_cost": "0.226842",
+                "targetsList": [
+                    {
+                        "target_name": "target11",
+                        "target_distance": "18.710700",
+                        "arrival_time": "0.505695",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_53",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.959523",
+                "total_cost": "0.423046",
+                "targetsList": [
+                    {
+                        "target_name": "target11",
+                        "target_distance": "18.710700",
+                        "arrival_time": "0.479762",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_72",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.796200",
+                "total_cost": "0.088370",
+                "targetsList": [
+                    {
+                        "target_name": "target11",
+                        "target_distance": "18.710700",
+                        "arrival_time": "0.398100",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_105",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.683136",
+                "total_cost": "0.324293",
+                "targetsList": [
+                    {
+                        "target_name": "target4",
+                        "target_distance": "15.029000",
+                        "arrival_time": "0.341568",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_148",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.652752",
+                "total_cost": "0.193450",
+                "targetsList": [
+                    {
+                        "target_name": "target3",
+                        "target_distance": "16.482000",
+                        "arrival_time": "0.326376",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_207",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.794313",
+                "total_cost": "0.256517",
+                "targetsList": [
+                    {
+                        "target_name": "target3",
+                        "target_distance": "16.482000",
+                        "arrival_time": "0.397157",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_252",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.522748",
+                "total_cost": "0.427116",
+                "targetsList": [
+                    {
+                        "target_name": "target4",
+                        "target_distance": "15.029000",
+                        "arrival_time": "0.261374",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_271",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.794313",
+                "total_cost": "0.476051",
+                "targetsList": [
+                    {
+                        "target_name": "target3",
+                        "target_distance": "16.482000",
+                        "arrival_time": "0.397157",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_283",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.646353",
+                "total_cost": "0.175890",
+                "targetsList": [
+                    {
+                        "target_name": "target3",
+                        "target_distance": "16.482000",
+                        "arrival_time": "0.323176",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_285",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.653435",
+                "total_cost": "0.413284",
+                "targetsList": [
+                    {
+                        "target_name": "target4",
+                        "target_distance": "15.029000",
+                        "arrival_time": "0.326717",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_286",
+                "force_type": "plane1",
+                "mount": "mount1",
+                "capacity": "30",
+                "total_time": "0.607232",
+                "total_cost": "0.447571",
+                "targetsList": [
+                    {
+                        "target_name": "target4",
+                        "target_distance": "15.029000",
+                        "arrival_time": "0.303616",
+                        "weapon_type": "mount1",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_2",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.983637",
+                "total_cost": "0.792928",
+                "targetsList": [
+                    {
+                        "target_name": "target7",
+                        "target_distance": "21.148200",
+                        "arrival_time": "0.491819",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_14",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.313218",
+                "total_cost": "0.531367",
+                "targetsList": [
+                    {
+                        "target_name": "target23",
+                        "target_distance": "7.047400",
+                        "arrival_time": "0.156609",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_25",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.492970",
+                "total_cost": "0.494123",
+                "targetsList": [
+                    {
+                        "target_name": "target16",
+                        "target_distance": "11.338300",
+                        "arrival_time": "0.246485",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_27",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.988978",
+                "total_cost": "0.567681",
+                "targetsList": [
+                    {
+                        "target_name": "target10",
+                        "target_distance": "22.252000",
+                        "arrival_time": "0.494489",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_32",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "1.011393",
+                "total_cost": "0.849012",
+                "targetsList": [
+                    {
+                        "target_name": "target13",
+                        "target_distance": "20.480700",
+                        "arrival_time": "0.505696",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_42",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "1.225983",
+                "total_cost": "0.908880",
+                "targetsList": [
+                    {
+                        "target_name": "target7",
+                        "target_distance": "21.148200",
+                        "arrival_time": "0.612991",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_66",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "1.034977",
+                "total_cost": "0.542500",
+                "targetsList": [
+                    {
+                        "target_name": "target10",
+                        "target_distance": "22.252000",
+                        "arrival_time": "0.517488",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_73",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "1.155948",
+                "total_cost": "0.099891",
+                "targetsList": [
+                    {
+                        "target_name": "target10",
+                        "target_distance": "22.252000",
+                        "arrival_time": "0.577974",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_76",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.472429",
+                "total_cost": "0.335656",
+                "targetsList": [
+                    {
+                        "target_name": "target16",
+                        "target_distance": "11.338300",
+                        "arrival_time": "0.236215",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_78",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.881267",
+                "total_cost": "0.286920",
+                "targetsList": [
+                    {
+                        "target_name": "target10",
+                        "target_distance": "22.252000",
+                        "arrival_time": "0.440634",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_79",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.772857",
+                "total_cost": "0.685367",
+                "targetsList": [
+                    {
+                        "target_name": "target13",
+                        "target_distance": "20.480700",
+                        "arrival_time": "0.386428",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_101",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.515377",
+                "total_cost": "0.462687",
+                "targetsList": [
+                    {
+                        "target_name": "target16",
+                        "target_distance": "11.338300",
+                        "arrival_time": "0.257689",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_106",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.458113",
+                "total_cost": "0.473646",
+                "targetsList": [
+                    {
+                        "target_name": "target16",
+                        "target_distance": "11.338300",
+                        "arrival_time": "0.229057",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_118",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.837552",
+                "total_cost": "0.258993",
+                "targetsList": [
+                    {
+                        "target_name": "target7",
+                        "target_distance": "21.148200",
+                        "arrival_time": "0.418776",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_122",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.574091",
+                "total_cost": "0.743448",
+                "targetsList": [
+                    {
+                        "target_name": "target16",
+                        "target_distance": "11.338300",
+                        "arrival_time": "0.287046",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_144",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "1.435613",
+                "total_cost": "0.780751",
+                "targetsList": [
+                    {
+                        "target_name": "target10",
+                        "target_distance": "22.252000",
+                        "arrival_time": "0.717806",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_146",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "1.222728",
+                "total_cost": "0.794593",
+                "targetsList": [
+                    {
+                        "target_name": "target13",
+                        "target_distance": "20.480700",
+                        "arrival_time": "0.611364",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_155",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.339634",
+                "total_cost": "0.346292",
+                "targetsList": [
+                    {
+                        "target_name": "target23",
+                        "target_distance": "7.047400",
+                        "arrival_time": "0.169817",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_167",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.397037",
+                "total_cost": "0.540307",
+                "targetsList": [
+                    {
+                        "target_name": "target23",
+                        "target_distance": "7.047400",
+                        "arrival_time": "0.198518",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_177",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.666959",
+                "total_cost": "0.511972",
+                "targetsList": [
+                    {
+                        "target_name": "target16",
+                        "target_distance": "11.338300",
+                        "arrival_time": "0.333479",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_178",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.447454",
+                "total_cost": "0.471988",
+                "targetsList": [
+                    {
+                        "target_name": "target23",
+                        "target_distance": "7.047400",
+                        "arrival_time": "0.223727",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_200",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.780217",
+                "total_cost": "0.632167",
+                "targetsList": [
+                    {
+                        "target_name": "target13",
+                        "target_distance": "20.480700",
+                        "arrival_time": "0.390109",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_214",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.961282",
+                "total_cost": "0.405806",
+                "targetsList": [
+                    {
+                        "target_name": "target7",
+                        "target_distance": "21.148200",
+                        "arrival_time": "0.480641",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_226",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.881175",
+                "total_cost": "0.538539",
+                "targetsList": [
+                    {
+                        "target_name": "target7",
+                        "target_distance": "21.148200",
+                        "arrival_time": "0.440587",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_228",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.871519",
+                "total_cost": "0.578131",
+                "targetsList": [
+                    {
+                        "target_name": "target13",
+                        "target_distance": "20.480700",
+                        "arrival_time": "0.435760",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_233",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.890080",
+                "total_cost": "0.444566",
+                "targetsList": [
+                    {
+                        "target_name": "target10",
+                        "target_distance": "22.252000",
+                        "arrival_time": "0.445040",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_235",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.320336",
+                "total_cost": "0.607863",
+                "targetsList": [
+                    {
+                        "target_name": "target23",
+                        "target_distance": "7.047400",
+                        "arrival_time": "0.160168",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_238",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.253960",
+                "total_cost": "0.475280",
+                "targetsList": [
+                    {
+                        "target_name": "target23",
+                        "target_distance": "7.047400",
+                        "arrival_time": "0.126980",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_246",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.863192",
+                "total_cost": "0.292214",
+                "targetsList": [
+                    {
+                        "target_name": "target7",
+                        "target_distance": "21.148200",
+                        "arrival_time": "0.431596",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_259",
+                "force_type": "vehical1",
+                "mount": "mount4",
+                "capacity": "40",
+                "total_time": "0.910253",
+                "total_cost": "0.814064",
+                "targetsList": [
+                    {
+                        "target_name": "target13",
+                        "target_distance": "20.480700",
+                        "arrival_time": "0.455127",
+                        "weapon_type": "mount4",
+                        "weapon_num": "40"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_6",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.234635",
+                "total_cost": "0.193164",
+                "targetsList": [
+                    {
+                        "target_name": "target8",
+                        "target_distance": "5.983200",
+                        "arrival_time": "0.117318",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_17",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.397062",
+                "total_cost": "0.509882",
+                "targetsList": [
+                    {
+                        "target_name": "target6",
+                        "target_distance": "8.338300",
+                        "arrival_time": "0.198531",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_20",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.351086",
+                "total_cost": "0.265502",
+                "targetsList": [
+                    {
+                        "target_name": "target6",
+                        "target_distance": "8.338300",
+                        "arrival_time": "0.175543",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_21",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "1.023047",
+                "total_cost": "0.331210",
+                "targetsList": [
+                    {
+                        "target_name": "target21",
+                        "target_distance": "20.716700",
+                        "arrival_time": "0.511523",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_22",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.445438",
+                "total_cost": "0.198851",
+                "targetsList": [
+                    {
+                        "target_name": "target1",
+                        "target_distance": "8.797400",
+                        "arrival_time": "0.222719",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_49",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.160728",
+                "total_cost": "0.309068",
+                "targetsList": [
+                    {
+                        "target_name": "target18",
+                        "target_distance": "4.259300",
+                        "arrival_time": "0.080364",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_75",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.348412",
+                "total_cost": "0.420467",
+                "targetsList": [
+                    {
+                        "target_name": "target1",
+                        "target_distance": "8.797400",
+                        "arrival_time": "0.174206",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_87",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "1.381113",
+                "total_cost": "0.595987",
+                "targetsList": [
+                    {
+                        "target_name": "target21",
+                        "target_distance": "20.716700",
+                        "arrival_time": "0.690557",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_91",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.390996",
+                "total_cost": "0.546873",
+                "targetsList": [
+                    {
+                        "target_name": "target1",
+                        "target_distance": "8.797400",
+                        "arrival_time": "0.195498",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_98",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "1.218629",
+                "total_cost": "0.175502",
+                "targetsList": [
+                    {
+                        "target_name": "target21",
+                        "target_distance": "20.716700",
+                        "arrival_time": "0.609315",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_102",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.344996",
+                "total_cost": "0.210314",
+                "targetsList": [
+                    {
+                        "target_name": "target1",
+                        "target_distance": "8.797400",
+                        "arrival_time": "0.172498",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_121",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.268908",
+                "total_cost": "0.221193",
+                "targetsList": [
+                    {
+                        "target_name": "target8",
+                        "target_distance": "5.983200",
+                        "arrival_time": "0.134454",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_134",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.260139",
+                "total_cost": "0.226466",
+                "targetsList": [
+                    {
+                        "target_name": "target8",
+                        "target_distance": "5.983200",
+                        "arrival_time": "0.130070",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_150",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.891041",
+                "total_cost": "0.493465",
+                "targetsList": [
+                    {
+                        "target_name": "target21",
+                        "target_distance": "20.716700",
+                        "arrival_time": "0.445520",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_151",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.293745",
+                "total_cost": "0.449569",
+                "targetsList": [
+                    {
+                        "target_name": "target18",
+                        "target_distance": "4.259300",
+                        "arrival_time": "0.146872",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_171",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.177471",
+                "total_cost": "0.137383",
+                "targetsList": [
+                    {
+                        "target_name": "target18",
+                        "target_distance": "4.259300",
+                        "arrival_time": "0.088735",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_185",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.310816",
+                "total_cost": "0.376528",
+                "targetsList": [
+                    {
+                        "target_name": "target8",
+                        "target_distance": "5.983200",
+                        "arrival_time": "0.155408",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_194",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.351086",
+                "total_cost": "0.453711",
+                "targetsList": [
+                    {
+                        "target_name": "target6",
+                        "target_distance": "8.338300",
+                        "arrival_time": "0.175543",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_199",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.340339",
+                "total_cost": "0.510527",
+                "targetsList": [
+                    {
+                        "target_name": "target6",
+                        "target_distance": "8.338300",
+                        "arrival_time": "0.170169",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_208",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.495628",
+                "total_cost": "0.457291",
+                "targetsList": [
+                    {
+                        "target_name": "target1",
+                        "target_distance": "8.797400",
+                        "arrival_time": "0.247814",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_211",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.185187",
+                "total_cost": "0.380493",
+                "targetsList": [
+                    {
+                        "target_name": "target18",
+                        "target_distance": "4.259300",
+                        "arrival_time": "0.092593",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_249",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.260139",
+                "total_cost": "0.320510",
+                "targetsList": [
+                    {
+                        "target_name": "target8",
+                        "target_distance": "5.983200",
+                        "arrival_time": "0.130070",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_256",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.309767",
+                "total_cost": "0.444133",
+                "targetsList": [
+                    {
+                        "target_name": "target18",
+                        "target_distance": "4.259300",
+                        "arrival_time": "0.154884",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_272",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.505352",
+                "total_cost": "0.423418",
+                "targetsList": [
+                    {
+                        "target_name": "target6",
+                        "target_distance": "8.338300",
+                        "arrival_time": "0.252676",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            },
+            {
+                "force_name": "force_289",
+                "force_type": "vehical2",
+                "mount": "mount5",
+                "capacity": "30",
+                "total_time": "0.863196",
+                "total_cost": "0.159769",
+                "targetsList": [
+                    {
+                        "target_name": "target21",
+                        "target_distance": "20.716700",
+                        "arrival_time": "0.431598",
+                        "weapon_type": "mount5",
+                        "weapon_num": "30"
+                    }
+                ]
+            }
+        ],
+        "unfinished_target": "",
+        "statistics_parameter": [
+            {
+                "TotalCost": "51.654922"
+            },
+            {
+                "CmpTime": "0.717806"
+            },
+            {
+                "TargetCoverRate": "1.000000"
+            },
+            {
+                "TourNum": "115"
+            },
+            {
+                "ResourceUseRate": "0.393836"
+            },
+            {
+                "CalculateTime": "2.494871"
+            }
+        ]
+    }
+}

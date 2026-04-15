@@ -1,0 +1,1802 @@
+[
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 70,
+        "num_target_types": 7,
+        "num_targets": 6,
+        "scenario_id": 1,
+        "urgency_level": 0.51175
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 800,
+        "num_target_types": 8,
+        "num_targets": 75,
+        "scenario_id": 2,
+        "urgency_level": 0.6782499999999999
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 759,
+        "num_target_types": 7,
+        "num_targets": 65,
+        "scenario_id": 3,
+        "urgency_level": 0.62425
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 210,
+        "num_target_types": 9,
+        "num_targets": 18,
+        "scenario_id": 4,
+        "urgency_level": 0.50725
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 350,
+        "num_target_types": 8,
+        "num_targets": 30,
+        "scenario_id": 5,
+        "urgency_level": 0.28675
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 58,
+        "num_target_types": 3,
+        "num_targets": 5,
+        "scenario_id": 6,
+        "urgency_level": 0.40825
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 82,
+        "num_target_types": 5,
+        "num_targets": 7,
+        "scenario_id": 7,
+        "urgency_level": 0.8987499999999999
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 619,
+        "num_target_types": 7,
+        "num_targets": 53,
+        "scenario_id": 8,
+        "urgency_level": 0.96625
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 4,
+        "num_resources": 712,
+        "num_target_types": 3,
+        "num_targets": 61,
+        "scenario_id": 9,
+        "urgency_level": 0.25975000000000004
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 800,
+        "num_target_types": 4,
+        "num_targets": 69,
+        "scenario_id": 10,
+        "urgency_level": 0.33175
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 2,
+        "num_resources": 736,
+        "num_target_types": 8,
+        "num_targets": 63,
+        "scenario_id": 11,
+        "urgency_level": 0.28225
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 2,
+        "num_resources": 677,
+        "num_target_types": 4,
+        "num_targets": 58,
+        "scenario_id": 12,
+        "urgency_level": 0.52075
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 794,
+        "num_target_types": 10,
+        "num_targets": 68,
+        "scenario_id": 13,
+        "urgency_level": 0.48024999999999995
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 800,
+        "num_target_types": 5,
+        "num_targets": 74,
+        "scenario_id": 14,
+        "urgency_level": 0.84025
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 9,
+        "num_resources": 800,
+        "num_target_types": 3,
+        "num_targets": 73,
+        "scenario_id": 15,
+        "urgency_level": 0.83125
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 47,
+        "num_target_types": 9,
+        "num_targets": 4,
+        "scenario_id": 16,
+        "urgency_level": 0.8897499999999999
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 58,
+        "num_target_types": 10,
+        "num_targets": 5,
+        "scenario_id": 17,
+        "urgency_level": 0.66475
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 350,
+        "num_target_types": 6,
+        "num_targets": 30,
+        "scenario_id": 18,
+        "urgency_level": 0.38575000000000004
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 4,
+        "num_resources": 187,
+        "num_target_types": 9,
+        "num_targets": 16,
+        "scenario_id": 19,
+        "urgency_level": 0.26875000000000004
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 9,
+        "num_resources": 327,
+        "num_target_types": 4,
+        "num_targets": 28,
+        "scenario_id": 20,
+        "urgency_level": 0.92125
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 409,
+        "num_target_types": 5,
+        "num_targets": 35,
+        "scenario_id": 21,
+        "urgency_level": 0.78175
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 800,
+        "num_target_types": 8,
+        "num_targets": 79,
+        "scenario_id": 22,
+        "urgency_level": 0.85375
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 362,
+        "num_target_types": 7,
+        "num_targets": 31,
+        "scenario_id": 23,
+        "urgency_level": 0.21925
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 782,
+        "num_target_types": 5,
+        "num_targets": 67,
+        "scenario_id": 24,
+        "urgency_level": 0.30925
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 397,
+        "num_target_types": 10,
+        "num_targets": 34,
+        "scenario_id": 25,
+        "urgency_level": 0.8492500000000001
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 759,
+        "num_target_types": 3,
+        "num_targets": 65,
+        "scenario_id": 26,
+        "urgency_level": 0.12025000000000001
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 10,
+        "num_resources": 800,
+        "num_target_types": 3,
+        "num_targets": 73,
+        "scenario_id": 27,
+        "urgency_level": 0.68275
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 771,
+        "num_target_types": 2,
+        "num_targets": 66,
+        "scenario_id": 28,
+        "urgency_level": 0.96175
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 362,
+        "num_target_types": 2,
+        "num_targets": 31,
+        "scenario_id": 29,
+        "urgency_level": 0.45325000000000004
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 234,
+        "num_target_types": 7,
+        "num_targets": 20,
+        "scenario_id": 30,
+        "urgency_level": 0.97075
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 800,
+        "num_target_types": 5,
+        "num_targets": 72,
+        "scenario_id": 31,
+        "urgency_level": 0.89425
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 10,
+        "num_resources": 70,
+        "num_target_types": 5,
+        "num_targets": 6,
+        "scenario_id": 32,
+        "urgency_level": 0.15175
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 198,
+        "num_target_types": 9,
+        "num_targets": 17,
+        "scenario_id": 33,
+        "urgency_level": 0.62875
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 490,
+        "num_target_types": 6,
+        "num_targets": 42,
+        "scenario_id": 34,
+        "urgency_level": 0.79075
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 677,
+        "num_target_types": 8,
+        "num_targets": 58,
+        "scenario_id": 35,
+        "urgency_level": 0.35875
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 35,
+        "num_target_types": 7,
+        "num_targets": 3,
+        "scenario_id": 36,
+        "urgency_level": 0.73675
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 327,
+        "num_target_types": 4,
+        "num_targets": 28,
+        "scenario_id": 37,
+        "urgency_level": 0.14275000000000002
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 455,
+        "num_target_types": 2,
+        "num_targets": 39,
+        "scenario_id": 38,
+        "urgency_level": 0.79525
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 9,
+        "num_resources": 292,
+        "num_target_types": 7,
+        "num_targets": 25,
+        "scenario_id": 39,
+        "urgency_level": 0.9842500000000001
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 2,
+        "num_resources": 800,
+        "num_target_types": 8,
+        "num_targets": 69,
+        "scenario_id": 40,
+        "urgency_level": 0.94375
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 747,
+        "num_target_types": 3,
+        "num_targets": 64,
+        "scenario_id": 41,
+        "urgency_level": 0.31375
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 607,
+        "num_target_types": 3,
+        "num_targets": 52,
+        "scenario_id": 42,
+        "urgency_level": 0.43525
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 105,
+        "num_target_types": 3,
+        "num_targets": 9,
+        "scenario_id": 43,
+        "urgency_level": 0.25525
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 245,
+        "num_target_types": 3,
+        "num_targets": 21,
+        "scenario_id": 44,
+        "urgency_level": 0.65575
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 140,
+        "num_target_types": 6,
+        "num_targets": 12,
+        "scenario_id": 45,
+        "urgency_level": 0.42174999999999996
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 800,
+        "num_target_types": 5,
+        "num_targets": 76,
+        "scenario_id": 46,
+        "urgency_level": 0.16075
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 3,
+        "num_resources": 595,
+        "num_target_types": 10,
+        "num_targets": 51,
+        "scenario_id": 47,
+        "urgency_level": 0.23275
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 304,
+        "num_target_types": 2,
+        "num_targets": 26,
+        "scenario_id": 48,
+        "urgency_level": 0.16975
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 93,
+        "num_target_types": 9,
+        "num_targets": 8,
+        "scenario_id": 49,
+        "urgency_level": 0.7052499999999999
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 5,
+        "num_resources": 619,
+        "num_target_types": 10,
+        "num_targets": 53,
+        "scenario_id": 50,
+        "urgency_level": 0.97975
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 502,
+        "num_target_types": 3,
+        "num_targets": 43,
+        "scenario_id": 51,
+        "urgency_level": 0.39025
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 339,
+        "num_target_types": 6,
+        "num_targets": 29,
+        "scenario_id": 52,
+        "urgency_level": 0.82675
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 117,
+        "num_target_types": 4,
+        "num_targets": 10,
+        "scenario_id": 53,
+        "urgency_level": 0.63325
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 420,
+        "num_target_types": 4,
+        "num_targets": 36,
+        "scenario_id": 54,
+        "urgency_level": 0.93475
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 163,
+        "num_target_types": 2,
+        "num_targets": 14,
+        "scenario_id": 55,
+        "urgency_level": 0.6962499999999999
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 3,
+        "num_resources": 800,
+        "num_target_types": 4,
+        "num_targets": 70,
+        "scenario_id": 56,
+        "urgency_level": 0.30475
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 362,
+        "num_target_types": 3,
+        "num_targets": 31,
+        "scenario_id": 57,
+        "urgency_level": 0.24175000000000002
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 9,
+        "num_resources": 175,
+        "num_target_types": 3,
+        "num_targets": 15,
+        "scenario_id": 58,
+        "urgency_level": 0.75025
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 490,
+        "num_target_types": 6,
+        "num_targets": 42,
+        "scenario_id": 59,
+        "urgency_level": 0.12475
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 2,
+        "num_resources": 502,
+        "num_target_types": 2,
+        "num_targets": 43,
+        "scenario_id": 60,
+        "urgency_level": 0.54775
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 245,
+        "num_target_types": 5,
+        "num_targets": 21,
+        "scenario_id": 61,
+        "urgency_level": 0.41725
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 479,
+        "num_target_types": 9,
+        "num_targets": 41,
+        "scenario_id": 62,
+        "urgency_level": 0.32275
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 10,
+        "num_resources": 537,
+        "num_target_types": 6,
+        "num_targets": 46,
+        "scenario_id": 63,
+        "urgency_level": 0.79975
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 525,
+        "num_target_types": 7,
+        "num_targets": 45,
+        "scenario_id": 64,
+        "urgency_level": 0.92575
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 8,
+        "num_resources": 800,
+        "num_target_types": 7,
+        "num_targets": 74,
+        "scenario_id": 65,
+        "urgency_level": 0.30025
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 4,
+        "num_resources": 642,
+        "num_target_types": 8,
+        "num_targets": 55,
+        "scenario_id": 66,
+        "urgency_level": 0.45775
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 257,
+        "num_target_types": 4,
+        "num_targets": 22,
+        "scenario_id": 67,
+        "urgency_level": 0.71875
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 5,
+        "num_resources": 93,
+        "num_target_types": 2,
+        "num_targets": 8,
+        "scenario_id": 68,
+        "urgency_level": 0.76375
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 4,
+        "num_resources": 631,
+        "num_target_types": 8,
+        "num_targets": 54,
+        "scenario_id": 69,
+        "urgency_level": 0.47575
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 444,
+        "num_target_types": 2,
+        "num_targets": 38,
+        "scenario_id": 70,
+        "urgency_level": 0.58375
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 10,
+        "num_resources": 467,
+        "num_target_types": 5,
+        "num_targets": 40,
+        "scenario_id": 71,
+        "urgency_level": 0.56125
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 187,
+        "num_target_types": 7,
+        "num_targets": 16,
+        "scenario_id": 72,
+        "urgency_level": 0.8582500000000001
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 3,
+        "num_resources": 736,
+        "num_target_types": 7,
+        "num_targets": 63,
+        "scenario_id": 73,
+        "urgency_level": 0.27775000000000005
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 759,
+        "num_target_types": 6,
+        "num_targets": 65,
+        "scenario_id": 74,
+        "urgency_level": 0.80425
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 467,
+        "num_target_types": 8,
+        "num_targets": 40,
+        "scenario_id": 75,
+        "urgency_level": 0.49375
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 10,
+        "num_resources": 572,
+        "num_target_types": 4,
+        "num_targets": 49,
+        "scenario_id": 76,
+        "urgency_level": 0.72775
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 8,
+        "num_resources": 800,
+        "num_target_types": 8,
+        "num_targets": 76,
+        "scenario_id": 77,
+        "urgency_level": 0.23725000000000002
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 595,
+        "num_target_types": 9,
+        "num_targets": 51,
+        "scenario_id": 78,
+        "urgency_level": 0.55225
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 514,
+        "num_target_types": 9,
+        "num_targets": 44,
+        "scenario_id": 79,
+        "urgency_level": 0.21025
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 315,
+        "num_target_types": 3,
+        "num_targets": 27,
+        "scenario_id": 80,
+        "urgency_level": 0.70075
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 82,
+        "num_target_types": 5,
+        "num_targets": 7,
+        "scenario_id": 81,
+        "urgency_level": 0.53875
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 2,
+        "num_resources": 70,
+        "num_target_types": 3,
+        "num_targets": 6,
+        "scenario_id": 82,
+        "urgency_level": 0.55675
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 105,
+        "num_target_types": 5,
+        "num_targets": 9,
+        "scenario_id": 83,
+        "urgency_level": 0.33625000000000005
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 9,
+        "num_resources": 800,
+        "num_target_types": 6,
+        "num_targets": 79,
+        "scenario_id": 84,
+        "urgency_level": 0.74125
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 4,
+        "num_resources": 198,
+        "num_target_types": 6,
+        "num_targets": 17,
+        "scenario_id": 85,
+        "urgency_level": 0.48475
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 560,
+        "num_target_types": 5,
+        "num_targets": 48,
+        "scenario_id": 86,
+        "urgency_level": 0.64225
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 10,
+        "num_resources": 724,
+        "num_target_types": 4,
+        "num_targets": 62,
+        "scenario_id": 87,
+        "urgency_level": 0.70975
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 117,
+        "num_target_types": 7,
+        "num_targets": 10,
+        "scenario_id": 88,
+        "urgency_level": 0.5972500000000001
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 10,
+        "num_resources": 747,
+        "num_target_types": 9,
+        "num_targets": 64,
+        "scenario_id": 89,
+        "urgency_level": 0.69175
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 35,
+        "num_target_types": 7,
+        "num_targets": 3,
+        "scenario_id": 90,
+        "urgency_level": 0.37675000000000003
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 8,
+        "num_resources": 712,
+        "num_target_types": 8,
+        "num_targets": 61,
+        "scenario_id": 91,
+        "urgency_level": 0.20575
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 140,
+        "num_target_types": 9,
+        "num_targets": 12,
+        "scenario_id": 92,
+        "urgency_level": 0.42625
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 3,
+        "num_resources": 800,
+        "num_target_types": 6,
+        "num_targets": 72,
+        "scenario_id": 93,
+        "urgency_level": 0.20125
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 5,
+        "num_resources": 175,
+        "num_target_types": 3,
+        "num_targets": 15,
+        "scenario_id": 94,
+        "urgency_level": 0.77725
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 10,
+        "num_resources": 800,
+        "num_target_types": 9,
+        "num_targets": 78,
+        "scenario_id": 95,
+        "urgency_level": 0.72325
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 2,
+        "num_resources": 794,
+        "num_target_types": 6,
+        "num_targets": 68,
+        "scenario_id": 96,
+        "urgency_level": 0.26425
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 420,
+        "num_target_types": 7,
+        "num_targets": 36,
+        "scenario_id": 97,
+        "urgency_level": 0.36324999999999996
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 152,
+        "num_target_types": 4,
+        "num_targets": 13,
+        "scenario_id": 98,
+        "urgency_level": 0.39925
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 140,
+        "num_target_types": 5,
+        "num_targets": 12,
+        "scenario_id": 99,
+        "urgency_level": 0.81775
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 9,
+        "num_resources": 222,
+        "num_target_types": 9,
+        "num_targets": 19,
+        "scenario_id": 100,
+        "urgency_level": 0.63775
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 800,
+        "num_target_types": 3,
+        "num_targets": 78,
+        "scenario_id": 101,
+        "urgency_level": 0.93925
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 3,
+        "num_resources": 800,
+        "num_target_types": 5,
+        "num_targets": 70,
+        "scenario_id": 102,
+        "urgency_level": 0.10675000000000001
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 4,
+        "num_resources": 800,
+        "num_target_types": 7,
+        "num_targets": 77,
+        "scenario_id": 103,
+        "urgency_level": 0.18325000000000002
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 152,
+        "num_target_types": 6,
+        "num_targets": 13,
+        "scenario_id": 104,
+        "urgency_level": 0.5297499999999999
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 10,
+        "num_resources": 385,
+        "num_target_types": 6,
+        "num_targets": 33,
+        "scenario_id": 105,
+        "urgency_level": 0.94825
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 2,
+        "num_resources": 572,
+        "num_target_types": 4,
+        "num_targets": 49,
+        "scenario_id": 106,
+        "urgency_level": 0.8762500000000001
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 4,
+        "num_resources": 701,
+        "num_target_types": 4,
+        "num_targets": 60,
+        "scenario_id": 107,
+        "urgency_level": 0.13825
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 245,
+        "num_target_types": 10,
+        "num_targets": 21,
+        "scenario_id": 108,
+        "urgency_level": 0.81325
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 385,
+        "num_target_types": 9,
+        "num_targets": 33,
+        "scenario_id": 109,
+        "urgency_level": 0.93025
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 8,
+        "num_resources": 432,
+        "num_target_types": 10,
+        "num_targets": 37,
+        "scenario_id": 110,
+        "urgency_level": 0.16525
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 5,
+        "num_resources": 689,
+        "num_target_types": 5,
+        "num_targets": 59,
+        "scenario_id": 111,
+        "urgency_level": 0.58825
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 800,
+        "num_target_types": 7,
+        "num_targets": 75,
+        "scenario_id": 112,
+        "urgency_level": 0.54325
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 5,
+        "num_resources": 222,
+        "num_target_types": 5,
+        "num_targets": 19,
+        "scenario_id": 113,
+        "urgency_level": 0.6692499999999999
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 5,
+        "num_resources": 724,
+        "num_target_types": 5,
+        "num_targets": 62,
+        "scenario_id": 114,
+        "urgency_level": 0.51625
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 736,
+        "num_target_types": 8,
+        "num_targets": 63,
+        "scenario_id": 115,
+        "urgency_level": 0.40375000000000005
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 432,
+        "num_target_types": 8,
+        "num_targets": 37,
+        "scenario_id": 116,
+        "urgency_level": 0.12925
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 8,
+        "num_resources": 385,
+        "num_target_types": 10,
+        "num_targets": 33,
+        "scenario_id": 117,
+        "urgency_level": 0.31825000000000003
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 304,
+        "num_target_types": 3,
+        "num_targets": 26,
+        "scenario_id": 118,
+        "urgency_level": 0.49824999999999997
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 701,
+        "num_target_types": 8,
+        "num_targets": 60,
+        "scenario_id": 119,
+        "urgency_level": 0.52525
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 525,
+        "num_target_types": 5,
+        "num_targets": 45,
+        "scenario_id": 120,
+        "urgency_level": 0.57925
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 47,
+        "num_target_types": 8,
+        "num_targets": 4,
+        "scenario_id": 121,
+        "urgency_level": 0.87175
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 619,
+        "num_target_types": 7,
+        "num_targets": 53,
+        "scenario_id": 122,
+        "urgency_level": 0.19225
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 315,
+        "num_target_types": 3,
+        "num_targets": 27,
+        "scenario_id": 123,
+        "urgency_level": 0.61525
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 8,
+        "num_resources": 35,
+        "num_target_types": 10,
+        "num_targets": 3,
+        "scenario_id": 124,
+        "urgency_level": 0.14725
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 5,
+        "num_resources": 117,
+        "num_target_types": 8,
+        "num_targets": 10,
+        "scenario_id": 125,
+        "urgency_level": 0.8852500000000001
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 2,
+        "num_resources": 514,
+        "num_target_types": 8,
+        "num_targets": 44,
+        "scenario_id": 126,
+        "urgency_level": 0.43074999999999997
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 800,
+        "num_target_types": 4,
+        "num_targets": 71,
+        "scenario_id": 127,
+        "urgency_level": 0.27325
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 3,
+        "num_resources": 467,
+        "num_target_types": 4,
+        "num_targets": 40,
+        "scenario_id": 128,
+        "urgency_level": 0.29575
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 339,
+        "num_target_types": 9,
+        "num_targets": 29,
+        "scenario_id": 129,
+        "urgency_level": 0.77275
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 327,
+        "num_target_types": 6,
+        "num_targets": 28,
+        "scenario_id": 130,
+        "urgency_level": 0.73225
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 800,
+        "num_target_types": 4,
+        "num_targets": 74,
+        "scenario_id": 131,
+        "urgency_level": 0.29125
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 10,
+        "num_resources": 163,
+        "num_target_types": 2,
+        "num_targets": 14,
+        "scenario_id": 132,
+        "urgency_level": 0.90775
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 432,
+        "num_target_types": 6,
+        "num_targets": 37,
+        "scenario_id": 133,
+        "urgency_level": 0.22825
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 800,
+        "num_target_types": 6,
+        "num_targets": 77,
+        "scenario_id": 134,
+        "urgency_level": 0.38125
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 4,
+        "num_resources": 455,
+        "num_target_types": 6,
+        "num_targets": 39,
+        "scenario_id": 135,
+        "urgency_level": 0.43975
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 10,
+        "num_resources": 490,
+        "num_target_types": 8,
+        "num_targets": 42,
+        "scenario_id": 136,
+        "urgency_level": 0.21475
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 525,
+        "num_target_types": 9,
+        "num_targets": 45,
+        "scenario_id": 137,
+        "urgency_level": 0.35424999999999995
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 654,
+        "num_target_types": 6,
+        "num_targets": 56,
+        "scenario_id": 138,
+        "urgency_level": 0.57475
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 800,
+        "num_target_types": 2,
+        "num_targets": 76,
+        "scenario_id": 139,
+        "urgency_level": 0.56575
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 374,
+        "num_target_types": 9,
+        "num_targets": 32,
+        "scenario_id": 140,
+        "urgency_level": 0.99775
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 607,
+        "num_target_types": 4,
+        "num_targets": 52,
+        "scenario_id": 141,
+        "urgency_level": 0.80875
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 9,
+        "num_resources": 782,
+        "num_target_types": 8,
+        "num_targets": 67,
+        "scenario_id": 142,
+        "urgency_level": 0.6872499999999999
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 8,
+        "num_resources": 280,
+        "num_target_types": 8,
+        "num_targets": 24,
+        "scenario_id": 143,
+        "urgency_level": 0.11575
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 444,
+        "num_target_types": 4,
+        "num_targets": 38,
+        "scenario_id": 144,
+        "urgency_level": 0.15625
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 677,
+        "num_target_types": 3,
+        "num_targets": 58,
+        "scenario_id": 145,
+        "urgency_level": 0.66025
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 280,
+        "num_target_types": 4,
+        "num_targets": 24,
+        "scenario_id": 146,
+        "urgency_level": 0.74575
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 2,
+        "num_resources": 654,
+        "num_target_types": 6,
+        "num_targets": 56,
+        "scenario_id": 147,
+        "urgency_level": 0.86275
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 631,
+        "num_target_types": 5,
+        "num_targets": 54,
+        "scenario_id": 148,
+        "urgency_level": 0.78625
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 9,
+        "num_resources": 93,
+        "num_target_types": 6,
+        "num_targets": 8,
+        "scenario_id": 149,
+        "urgency_level": 0.75475
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 479,
+        "num_target_types": 9,
+        "num_targets": 41,
+        "scenario_id": 150,
+        "urgency_level": 0.90325
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 654,
+        "num_target_types": 7,
+        "num_targets": 56,
+        "scenario_id": 151,
+        "urgency_level": 0.17425000000000002
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 3,
+        "num_resources": 800,
+        "num_target_types": 7,
+        "num_targets": 79,
+        "scenario_id": 152,
+        "urgency_level": 0.46225000000000005
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 631,
+        "num_target_types": 2,
+        "num_targets": 54,
+        "scenario_id": 153,
+        "urgency_level": 0.41274999999999995
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 642,
+        "num_target_types": 9,
+        "num_targets": 55,
+        "scenario_id": 154,
+        "urgency_level": 0.46675
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 2,
+        "num_resources": 222,
+        "num_target_types": 10,
+        "num_targets": 19,
+        "scenario_id": 155,
+        "urgency_level": 0.7142499999999999
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 6,
+        "num_resources": 269,
+        "num_target_types": 9,
+        "num_targets": 23,
+        "scenario_id": 156,
+        "urgency_level": 0.10225000000000001
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 800,
+        "num_target_types": 8,
+        "num_targets": 80,
+        "scenario_id": 157,
+        "urgency_level": 0.60175
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 304,
+        "num_target_types": 4,
+        "num_targets": 26,
+        "scenario_id": 158,
+        "urgency_level": 0.83575
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 210,
+        "num_target_types": 7,
+        "num_targets": 18,
+        "scenario_id": 159,
+        "urgency_level": 0.25075000000000003
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 10,
+        "num_resources": 595,
+        "num_target_types": 8,
+        "num_targets": 51,
+        "scenario_id": 160,
+        "urgency_level": 0.11125
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 689,
+        "num_target_types": 9,
+        "num_targets": 59,
+        "scenario_id": 161,
+        "urgency_level": 0.59275
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 292,
+        "num_target_types": 9,
+        "num_targets": 25,
+        "scenario_id": 162,
+        "urgency_level": 0.44425000000000003
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 666,
+        "num_target_types": 6,
+        "num_targets": 57,
+        "scenario_id": 163,
+        "urgency_level": 0.34975
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 549,
+        "num_target_types": 9,
+        "num_targets": 47,
+        "scenario_id": 164,
+        "urgency_level": 0.61975
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 280,
+        "num_target_types": 6,
+        "num_targets": 24,
+        "scenario_id": 165,
+        "urgency_level": 0.47124999999999995
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 794,
+        "num_target_types": 7,
+        "num_targets": 68,
+        "scenario_id": 166,
+        "urgency_level": 0.19675
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 409,
+        "num_target_types": 6,
+        "num_targets": 35,
+        "scenario_id": 167,
+        "urgency_level": 0.82225
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 2,
+        "num_resources": 409,
+        "num_target_types": 5,
+        "num_targets": 35,
+        "scenario_id": 168,
+        "urgency_level": 0.76825
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 9,
+        "num_resources": 800,
+        "num_target_types": 7,
+        "num_targets": 72,
+        "scenario_id": 169,
+        "urgency_level": 0.34525000000000006
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 800,
+        "num_target_types": 6,
+        "num_targets": 71,
+        "scenario_id": 170,
+        "urgency_level": 0.98875
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 23,
+        "num_target_types": 3,
+        "num_targets": 2,
+        "scenario_id": 171,
+        "urgency_level": 0.48924999999999996
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 537,
+        "num_target_types": 3,
+        "num_targets": 46,
+        "scenario_id": 172,
+        "urgency_level": 0.95275
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 3,
+        "num_resources": 514,
+        "num_target_types": 10,
+        "num_targets": 44,
+        "scenario_id": 173,
+        "urgency_level": 0.13375
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 128,
+        "num_target_types": 2,
+        "num_targets": 11,
+        "scenario_id": 174,
+        "urgency_level": 0.84475
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 5,
+        "num_resources": 339,
+        "num_target_types": 8,
+        "num_targets": 29,
+        "scenario_id": 175,
+        "urgency_level": 0.65125
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 584,
+        "num_target_types": 5,
+        "num_targets": 50,
+        "scenario_id": 176,
+        "urgency_level": 0.64675
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 2,
+        "num_resources": 128,
+        "num_target_types": 3,
+        "num_targets": 11,
+        "scenario_id": 177,
+        "urgency_level": 0.24625000000000002
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 198,
+        "num_target_types": 7,
+        "num_targets": 17,
+        "scenario_id": 178,
+        "urgency_level": 0.9752500000000001
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 3,
+        "num_resources": 257,
+        "num_target_types": 7,
+        "num_targets": 22,
+        "scenario_id": 179,
+        "urgency_level": 0.39475000000000005
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 8,
+        "num_resources": 175,
+        "num_target_types": 3,
+        "num_targets": 15,
+        "scenario_id": 180,
+        "urgency_level": 0.32725000000000004
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 444,
+        "num_target_types": 6,
+        "num_targets": 38,
+        "scenario_id": 181,
+        "urgency_level": 0.95725
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 549,
+        "num_target_types": 4,
+        "num_targets": 47,
+        "scenario_id": 182,
+        "urgency_level": 0.91675
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 10,
+        "num_resources": 712,
+        "num_target_types": 9,
+        "num_targets": 61,
+        "scenario_id": 183,
+        "urgency_level": 0.18775000000000003
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 584,
+        "num_target_types": 3,
+        "num_targets": 50,
+        "scenario_id": 184,
+        "urgency_level": 0.22375
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 701,
+        "num_target_types": 5,
+        "num_targets": 60,
+        "scenario_id": 185,
+        "urgency_level": 0.61075
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 782,
+        "num_target_types": 9,
+        "num_targets": 67,
+        "scenario_id": 186,
+        "urgency_level": 0.8672500000000001
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 9,
+        "num_resources": 572,
+        "num_target_types": 10,
+        "num_targets": 49,
+        "scenario_id": 187,
+        "urgency_level": 0.9932500000000001
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 7,
+        "num_resources": 234,
+        "num_target_types": 4,
+        "num_targets": 20,
+        "scenario_id": 188,
+        "urgency_level": 0.91225
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 666,
+        "num_target_types": 5,
+        "num_targets": 57,
+        "scenario_id": 189,
+        "urgency_level": 0.67375
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 6,
+        "num_resources": 58,
+        "num_target_types": 10,
+        "num_targets": 5,
+        "scenario_id": 190,
+        "urgency_level": 0.50275
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 560,
+        "num_target_types": 8,
+        "num_targets": 48,
+        "scenario_id": 191,
+        "urgency_level": 0.57025
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 3,
+        "num_resources": 800,
+        "num_target_types": 7,
+        "num_targets": 70,
+        "scenario_id": 192,
+        "urgency_level": 0.60625
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 8,
+        "num_resources": 257,
+        "num_target_types": 8,
+        "num_targets": 22,
+        "scenario_id": 193,
+        "urgency_level": 0.44875
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 4,
+        "num_resources": 800,
+        "num_target_types": 9,
+        "num_targets": 77,
+        "scenario_id": 194,
+        "urgency_level": 0.37224999999999997
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 5,
+        "num_resources": 397,
+        "num_target_types": 3,
+        "num_targets": 34,
+        "scenario_id": 195,
+        "urgency_level": 0.75925
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 4,
+        "num_resources": 163,
+        "num_target_types": 4,
+        "num_targets": 14,
+        "scenario_id": 196,
+        "urgency_level": 0.17875000000000002
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 374,
+        "num_target_types": 4,
+        "num_targets": 32,
+        "scenario_id": 197,
+        "urgency_level": 0.36775
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 8,
+        "num_resources": 771,
+        "num_target_types": 5,
+        "num_targets": 66,
+        "scenario_id": 198,
+        "urgency_level": 0.88075
+    },
+    {
+        "decision_preference": "time",
+        "num_resource_types": 4,
+        "num_resources": 549,
+        "num_target_types": 4,
+        "num_targets": 47,
+        "scenario_id": 199,
+        "urgency_level": 0.53425
+    },
+    {
+        "decision_preference": "cost",
+        "num_resource_types": 5,
+        "num_resources": 269,
+        "num_target_types": 5,
+        "num_targets": 23,
+        "scenario_id": 200,
+        "urgency_level": 0.34075
+    }
+]

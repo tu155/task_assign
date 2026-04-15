@@ -1,0 +1,13 @@
+{
+    "dataset_info": {
+        "test_scenarios": 60,
+        "total_scenarios": 200,
+        "training_scenarios": 140
+    },
+    "execution_time": 17683734486756574,
+    "system_stats": {
+        "average_performance": 0.0,
+        "successful_recommendations": 0,
+        "total_scenarios": 59
+    }
+}

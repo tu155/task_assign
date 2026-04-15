@@ -1,0 +1,1237 @@
+[
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.4517383575439453,
+                "problem_complexity": 4.375864505767822
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 82.10942840576172,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.4027779996395111,
+                "previous_time": 0.6263599991798401
+            },
+            "num_resource_types": 4,
+            "num_resources": 432,
+            "num_target_types": 5,
+            "num_targets": 55,
+            "resource_target_ratio": 7.0,
+            "scenario_name": "secondary_1011_from_scenario_133_ratio50_T55_R432",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 36,
+                "target_change_ratio": 0.5
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.5034328699111938,
+                    "std_dev": 0.29317331314086914
+                },
+                "resource_capacity": {
+                    "mean": 37.060184478759766,
+                    "std_dev": 8.300829887390137
+                },
+                "target_distance": {
+                    "max": 0.3015432059764862,
+                    "mean": 0.1644786149263382,
+                    "min": 0.04955988749861717,
+                    "percentiles": [
+                        0.10692699998617172,
+                        0.17582856118679047,
+                        0.21417281031608582
+                    ],
+                    "std_dev": 0.0621238648891449
+                },
+                "time_window": {
+                    "mean": 27.745454788208008,
+                    "percentiles": [
+                        16.0,
+                        30.0,
+                        38.0
+                    ],
+                    "std_dev": 10.322469711303711
+                }
+            },
+            "target_time_urgency": 0.4517383575439453,
+            "topological_features": {
+                "spatial_clustering": 0.9044917225837708,
+                "target_density": 0.1312554031610489
+            }
+        },
+        "scenario_name": "secondary_1011_from_scenario_133_ratio50_T55_R432",
+        "scenario_path": "../data/secondary_scenarios/secondary_1011_from_scenario_133_ratio50_T55_R432.json",
+        "timestamp": 17690624239199457,
+        "true_label": "NSGAII"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.4186663031578064,
+                "problem_complexity": 4.804527759552002
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 224.68765258789063,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.3926219940185547,
+                "previous_time": 0.612667977809906
+            },
+            "num_resource_types": 4,
+            "num_resources": 759,
+            "num_target_types": 5,
+            "num_targets": 84,
+            "resource_target_ratio": 9.0,
+            "scenario_name": "secondary_1034_from_scenario_26_ratio30_T84_R759",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 64,
+                "target_change_ratio": 0.30000001192092896
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.4907081425189972,
+                    "std_dev": 0.29164281487464905
+                },
+                "resource_capacity": {
+                    "mean": 37.73386001586914,
+                    "std_dev": 8.221426010131836
+                },
+                "target_distance": {
+                    "max": 0.29915398359298706,
+                    "mean": 0.17492739856243134,
+                    "min": 0.015987250953912735,
+                    "percentiles": [
+                        0.1309960037469864,
+                        0.1749778836965561,
+                        0.22628119587898254
+                    ],
+                    "std_dev": 0.06620744615793228
+                },
+                "time_window": {
+                    "mean": 23.678571701049805,
+                    "percentiles": [
+                        15.0,
+                        21.0,
+                        35.0
+                    ],
+                    "std_dev": 10.272664070129395
+                }
+            },
+            "target_time_urgency": 0.4186663031578064,
+            "topological_features": {
+                "spatial_clustering": 0.9073449969291687,
+                "target_density": 0.1936364471912384
+            }
+        },
+        "scenario_name": "secondary_1034_from_scenario_26_ratio30_T84_R759",
+        "scenario_path": "../data/secondary_scenarios/secondary_1034_from_scenario_26_ratio30_T84_R759.json",
+        "timestamp": 17690624315907524,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.7104138135910034,
+                "problem_complexity": 5.08493709564209
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 295.7635498046875,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.4412499964237213,
+                "previous_time": 0.9484670162200928
+            },
+            "num_resource_types": 4,
+            "num_resources": 800,
+            "num_target_types": 5,
+            "num_targets": 152,
+            "resource_target_ratio": 5.0,
+            "scenario_name": "secondary_1013_from_scenario_139_ratio100_T152_R800",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 76,
+                "target_change_ratio": 1.0
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.4991690516471863,
+                    "std_dev": 0.29055872559547424
+                },
+                "resource_capacity": {
+                    "mean": 37.42499923706055,
+                    "std_dev": 8.343786239624023
+                },
+                "target_distance": {
+                    "max": 0.2612780034542084,
+                    "mean": 0.1629544347524643,
+                    "min": 0.05281682312488556,
+                    "percentiles": [
+                        0.11308480054140091,
+                        0.16780415177345276,
+                        0.21317361295223236
+                    ],
+                    "std_dev": 0.05774838849902153
+                },
+                "time_window": {
+                    "mean": 25.164474487304688,
+                    "percentiles": [
+                        16.0,
+                        26.0,
+                        33.0
+                    ],
+                    "std_dev": 9.988442420959473
+                }
+            },
+            "target_time_urgency": 0.7104138135910034,
+            "topological_features": {
+                "spatial_clustering": 0.9370997548103333,
+                "target_density": 0.33716338872909546
+            }
+        },
+        "scenario_name": "secondary_1013_from_scenario_139_ratio100_T152_R800",
+        "scenario_path": "../data/secondary_scenarios/secondary_1013_from_scenario_139_ratio100_T152_R800.json",
+        "timestamp": 17690624526400414,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 1.0,
+                "problem_complexity": 3.3512163162231445
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 35.76535415649414,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.39037400484085083,
+                "previous_time": 0.7781829833984375
+            },
+            "num_resource_types": 4,
+            "num_resources": 187,
+            "num_target_types": 5,
+            "num_targets": 12,
+            "resource_target_ratio": 15.0,
+            "scenario_name": "secondary_1050_from_scenario_72_ratio-20_T12_R187",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 0,
+                "target_change_ratio": -0.20000000298023224
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.5250532627105713,
+                    "std_dev": 0.27431145310401917
+                },
+                "resource_capacity": {
+                    "mean": 36.89839553833008,
+                    "std_dev": 8.402024269104004
+                },
+                "target_distance": {
+                    "max": 0.2844559848308563,
+                    "mean": 0.1530602127313614,
+                    "min": 0.03388463333249092,
+                    "percentiles": [
+                        0.10447116941213608,
+                        0.1442025899887085,
+                        0.2203197032213211
+                    ],
+                    "std_dev": 0.07634734362363815
+                },
+                "time_window": {
+                    "mean": 13.583333015441895,
+                    "percentiles": [
+                        9.0,
+                        14.0,
+                        18.0
+                    ],
+                    "std_dev": 4.716254234313965
+                }
+            },
+            "target_time_urgency": 1.0,
+            "topological_features": {
+                "spatial_clustering": 0.7323727011680603,
+                "target_density": 0.03811274468898773
+            }
+        },
+        "scenario_name": "secondary_1050_from_scenario_72_ratio-20_T12_R187",
+        "scenario_path": "../data/secondary_scenarios/secondary_1050_from_scenario_72_ratio-20_T12_R187.json",
+        "timestamp": 17690624546241567,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.4989892244338989,
+                "problem_complexity": 3.9058499336242676
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 203.70755004882813,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.39903101325035095,
+                "previous_time": 0.8885359764099121
+            },
+            "num_resource_types": 4,
+            "num_resources": 350,
+            "num_target_types": 4,
+            "num_targets": 23,
+            "resource_target_ratio": 15.0,
+            "scenario_name": "secondary_1045_from_scenario_5_ratio0_T23_R350",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 0,
+                "target_change_ratio": -0.2127208113670349
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.5096118450164795,
+                    "std_dev": 0.2904491722583771
+                },
+                "resource_capacity": {
+                    "mean": 38.342857360839844,
+                    "std_dev": 8.525402069091797
+                },
+                "target_distance": {
+                    "max": 0.28417399525642395,
+                    "mean": 0.1854207068681717,
+                    "min": 0.09142735600471497,
+                    "percentiles": [
+                        0.14966773986816406,
+                        0.17617923021316528,
+                        0.2281000316143036
+                    ],
+                    "std_dev": 0.04814138635993004
+                },
+                "time_window": {
+                    "mean": 25.434782028198242,
+                    "percentiles": [
+                        15.0,
+                        28.0,
+                        33.0
+                    ],
+                    "std_dev": 8.967700958251953
+                }
+            },
+            "target_time_urgency": 0.4989892244338989,
+            "topological_features": {
+                "spatial_clustering": 0.8144643306732178,
+                "target_density": 0.0626012459397316
+            }
+        },
+        "scenario_name": "secondary_1045_from_scenario_5_ratio0_T23_R350",
+        "scenario_path": "../data/secondary_scenarios/secondary_1045_from_scenario_5_ratio0_T23_R350.json",
+        "timestamp": 17690624608184024,
+        "true_label": "NSGAII"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.4900765120983124,
+                "problem_complexity": 4.47551155090332
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 170.9468994140625,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.434689998626709,
+                "previous_time": 0.8408970236778259
+            },
+            "num_resource_types": 4,
+            "num_resources": 467,
+            "num_target_types": 5,
+            "num_targets": 64,
+            "resource_target_ratio": 7.0,
+            "scenario_name": "secondary_1010_from_scenario_128_ratio60_T64_R467",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 40,
+                "target_change_ratio": 0.6000000238418579
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.5140039920806885,
+                    "std_dev": 0.28855404257774353
+                },
+                "resource_capacity": {
+                    "mean": 37.92291259765625,
+                    "std_dev": 8.314651489257813
+                },
+                "target_distance": {
+                    "max": 0.3059762716293335,
+                    "mean": 0.17778946459293365,
+                    "min": 0.04971107468008995,
+                    "percentiles": [
+                        0.11817633360624313,
+                        0.18599450588226318,
+                        0.2430025041103363
+                    ],
+                    "std_dev": 0.0696784183382988
+                },
+                "time_window": {
+                    "mean": 21.078125,
+                    "percentiles": [
+                        14.0,
+                        20.0,
+                        27.0
+                    ],
+                    "std_dev": 8.389546394348145
+                }
+            },
+            "target_time_urgency": 0.4900765120983124,
+            "topological_features": {
+                "spatial_clustering": 0.914655864238739,
+                "target_density": 0.14132599532604218
+            }
+        },
+        "scenario_name": "secondary_1010_from_scenario_128_ratio60_T64_R467",
+        "scenario_path": "../data/secondary_scenarios/secondary_1010_from_scenario_128_ratio60_T64_R467.json",
+        "timestamp": 17690624680809450,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.6015604734420776,
+                "problem_complexity": 4.681250095367432
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 274.74945068359375,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.44999998807907104,
+                "previous_time": 0.5412459969520569
+            },
+            "num_resource_types": 4,
+            "num_resources": 800,
+            "num_target_types": 5,
+            "num_targets": 60,
+            "resource_target_ratio": 13.0,
+            "scenario_name": "secondary_1031_from_scenario_194_ratio0_T60_R800",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 0,
+                "target_change_ratio": -0.2127208113670349
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.508711576461792,
+                    "std_dev": 0.2838844656944275
+                },
+                "resource_capacity": {
+                    "mean": 37.57500076293945,
+                    "std_dev": 8.328792572021484
+                },
+                "target_distance": {
+                    "max": 0.27703574299812317,
+                    "mean": 0.1687673181295395,
+                    "min": 0.01617448218166828,
+                    "percentiles": [
+                        0.11863385885953903,
+                        0.1722336709499359,
+                        0.22836311161518097
+                    ],
+                    "std_dev": 0.0700279250741005
+                },
+                "time_window": {
+                    "mean": 24.91666603088379,
+                    "percentiles": [
+                        18.0,
+                        25.0,
+                        33.0
+                    ],
+                    "std_dev": 8.649260520935059
+                }
+            },
+            "target_time_urgency": 0.6015604734420776,
+            "topological_features": {
+                "spatial_clustering": 0.8745436668395996,
+                "target_density": 0.1406233012676239
+            }
+        },
+        "scenario_name": "secondary_1031_from_scenario_194_ratio0_T60_R800",
+        "scenario_path": "../data/secondary_scenarios/secondary_1031_from_scenario_194_ratio0_T60_R800.json",
+        "timestamp": 17690624737848428,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.4025064706802368,
+                "problem_complexity": 4.164382457733154
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 177.3217315673828,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.4160960018634796,
+                "previous_time": 0.7566369771957397
+            },
+            "num_resource_types": 4,
+            "num_resources": 584,
+            "num_target_types": 5,
+            "num_targets": 25,
+            "resource_target_ratio": 23.0,
+            "scenario_name": "secondary_1028_from_scenario_184_ratio-50_T25_R584",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 0,
+                "target_change_ratio": -0.5
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.5152040123939514,
+                    "std_dev": 0.2906191051006317
+                },
+                "resource_capacity": {
+                    "mean": 37.448631286621094,
+                    "std_dev": 8.3274564743042
+                },
+                "target_distance": {
+                    "max": 0.2894778251647949,
+                    "mean": 0.18746799230575562,
+                    "min": 0.03047177381813526,
+                    "percentiles": [
+                        0.14723795652389526,
+                        0.1912900060415268,
+                        0.23179399967193604
+                    ],
+                    "std_dev": 0.0625222772359848
+                },
+                "time_window": {
+                    "mean": 27.8799991607666,
+                    "percentiles": [
+                        18.0,
+                        27.0,
+                        38.0
+                    ],
+                    "std_dev": 10.312399864196777
+                }
+            },
+            "target_time_urgency": 0.4025064706802368,
+            "topological_features": {
+                "spatial_clustering": 0.7942680716514587,
+                "target_density": 0.06755524128675461
+            }
+        },
+        "scenario_name": "secondary_1028_from_scenario_184_ratio-50_T25_R584",
+        "scenario_path": "../data/secondary_scenarios/secondary_1028_from_scenario_184_ratio-50_T25_R584.json",
+        "timestamp": 17690624758177717,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.4514425992965698,
+                "problem_complexity": 4.352972984313965
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 149.79762268066406,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.3816330134868622,
+                "previous_time": 0.9531890153884888
+            },
+            "num_resource_types": 4,
+            "num_resources": 490,
+            "num_target_types": 5,
+            "num_targets": 46,
+            "resource_target_ratio": 10.0,
+            "scenario_name": "secondary_1012_from_scenario_136_ratio10_T46_R490",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 41,
+                "target_change_ratio": 0.10000000149011612
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.49243447184562683,
+                    "std_dev": 0.28804144263267517
+                },
+                "resource_capacity": {
+                    "mean": 37.85714340209961,
+                    "std_dev": 8.187840461730957
+                },
+                "target_distance": {
+                    "max": 0.2933679223060608,
+                    "mean": 0.15790514647960663,
+                    "min": 0.060305897146463394,
+                    "percentiles": [
+                        0.10962695628404617,
+                        0.16341489553451538,
+                        0.19615301489830017
+                    ],
+                    "std_dev": 0.05886473134160042
+                },
+                "time_window": {
+                    "mean": 24.39130401611328,
+                    "percentiles": [
+                        18.0,
+                        23.0,
+                        33.0
+                    ],
+                    "std_dev": 8.268532752990723
+                }
+            },
+            "target_time_urgency": 0.4514425992965698,
+            "topological_features": {
+                "spatial_clustering": 0.8714323043823242,
+                "target_density": 0.11246339231729507
+            }
+        },
+        "scenario_name": "secondary_1012_from_scenario_136_ratio10_T46_R490",
+        "scenario_path": "../data/secondary_scenarios/secondary_1012_from_scenario_136_ratio10_T46_R490.json",
+        "timestamp": 17690624788602139,
+        "true_label": "NSGAII"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.4727593660354614,
+                "problem_complexity": 4.946290016174316
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 241.6395721435547,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.38746801018714905,
+                "previous_time": 0.648826003074646
+            },
+            "num_resource_types": 4,
+            "num_resources": 782,
+            "num_target_types": 5,
+            "num_targets": 113,
+            "resource_target_ratio": 6.0,
+            "scenario_name": "secondary_1033_from_scenario_24_ratio70_T113_R782",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 66,
+                "target_change_ratio": 0.699999988079071
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.4869667589664459,
+                    "std_dev": 0.2883389890193939
+                },
+                "resource_capacity": {
+                    "mean": 37.659847259521484,
+                    "std_dev": 8.341919898986816
+                },
+                "target_distance": {
+                    "max": 0.2807786464691162,
+                    "mean": 0.15481850504875183,
+                    "min": 0.04777427017688751,
+                    "percentiles": [
+                        0.11458180099725723,
+                        0.15595275163650513,
+                        0.19892463088035583
+                    ],
+                    "std_dev": 0.05611051619052887
+                },
+                "time_window": {
+                    "mean": 24.20353889465332,
+                    "percentiles": [
+                        17.0,
+                        25.0,
+                        30.0
+                    ],
+                    "std_dev": 8.39527702331543
+                }
+            },
+            "target_time_urgency": 0.4727593660354614,
+            "topological_features": {
+                "spatial_clustering": 0.9324979782104492,
+                "target_density": 0.24830877780914307
+            }
+        },
+        "scenario_name": "secondary_1033_from_scenario_24_ratio70_T113_R782",
+        "scenario_path": "../data/secondary_scenarios/secondary_1033_from_scenario_24_ratio70_T113_R782.json",
+        "timestamp": 17690624894484622,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.3765444755554199,
+                "problem_complexity": 4.536571025848389
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 239.11459350585938,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.4074999988079071,
+                "previous_time": 0.5540369749069214
+            },
+            "num_resource_types": 4,
+            "num_resources": 800,
+            "num_target_types": 5,
+            "num_targets": 43,
+            "resource_target_ratio": 18.0,
+            "scenario_name": "secondary_1058_from_scenario_93_ratio-40_T43_R800",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 0,
+                "target_change_ratio": -0.4000000059604645
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.5065804719924927,
+                    "std_dev": 0.28245946764945984
+                },
+                "resource_capacity": {
+                    "mean": 36.974998474121094,
+                    "std_dev": 8.11479377746582
+                },
+                "target_distance": {
+                    "max": 0.2917804419994354,
+                    "mean": 0.15356647968292236,
+                    "min": 0.02239220030605793,
+                    "percentiles": [
+                        0.12036699801683426,
+                        0.13807664811611176,
+                        0.19236205518245697
+                    ],
+                    "std_dev": 0.05532987043261528
+                },
+                "time_window": {
+                    "mean": 27.534883499145508,
+                    "percentiles": [
+                        20.0,
+                        28.0,
+                        35.0
+                    ],
+                    "std_dev": 8.654475212097168
+                }
+            },
+            "target_time_urgency": 0.3765444755554199,
+            "topological_features": {
+                "spatial_clustering": 0.851449191570282,
+                "target_density": 0.10711666941642761
+            }
+        },
+        "scenario_name": "secondary_1058_from_scenario_93_ratio-40_T43_R800",
+        "scenario_path": "../data/secondary_scenarios/secondary_1058_from_scenario_93_ratio-40_T43_R800.json",
+        "timestamp": 17690624934449482,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.7123165130615234,
+                "problem_complexity": 4.468982219696045
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 231.77967834472656,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.39515000581741333,
+                "previous_time": 0.7861379981040955
+            },
+            "num_resource_types": 4,
+            "num_resources": 701,
+            "num_target_types": 5,
+            "num_targets": 42,
+            "resource_target_ratio": 16.0,
+            "scenario_name": "secondary_1007_from_scenario_119_ratio-30_T42_R701",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 0,
+                "target_change_ratio": -0.30000001192092896
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.510346531867981,
+                    "std_dev": 0.2885062098503113
+                },
+                "resource_capacity": {
+                    "mean": 36.961483001708984,
+                    "std_dev": 8.050131797790527
+                },
+                "target_distance": {
+                    "max": 0.2939600348472595,
+                    "mean": 0.15578193962574005,
+                    "min": 0.009827685542404652,
+                    "percentiles": [
+                        0.10517378896474838,
+                        0.15387430787086487,
+                        0.226517453789711
+                    ],
+                    "std_dev": 0.07344573736190796
+                },
+                "time_window": {
+                    "mean": 26.238094329833984,
+                    "percentiles": [
+                        19.0,
+                        27.0,
+                        34.0
+                    ],
+                    "std_dev": 8.673466682434082
+                }
+            },
+            "target_time_urgency": 0.7123165130615234,
+            "topological_features": {
+                "spatial_clustering": 0.8584592342376709,
+                "target_density": 0.1009092628955841
+            }
+        },
+        "scenario_name": "secondary_1007_from_scenario_119_ratio-30_T42_R701",
+        "scenario_path": "../data/secondary_scenarios/secondary_1007_from_scenario_119_ratio-30_T42_R701.json",
+        "timestamp": 17690624970239761,
+        "true_label": "NSGAII"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 1.0,
+                "problem_complexity": 4.283074855804443
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 203.70755004882813,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.39903101325035095,
+                "previous_time": 0.8885359764099121
+            },
+            "num_resource_types": 4,
+            "num_resources": 619,
+            "num_target_types": 5,
+            "num_targets": 31,
+            "resource_target_ratio": 19.0,
+            "scenario_name": "secondary_1042_from_scenario_50_ratio-40_T31_R619",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 0,
+                "target_change_ratio": -0.4000000059604645
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.5088099241256714,
+                    "std_dev": 0.2802908718585968
+                },
+                "resource_capacity": {
+                    "mean": 37.70597839355469,
+                    "std_dev": 8.251161575317383
+                },
+                "target_distance": {
+                    "max": 0.290171355009079,
+                    "mean": 0.17505896091461182,
+                    "min": 0.06565583497285843,
+                    "percentiles": [
+                        0.11508581787347794,
+                        0.1783810406923294,
+                        0.23615114390850067
+                    ],
+                    "std_dev": 0.06475041061639786
+                },
+                "time_window": {
+                    "mean": 11.806451797485352,
+                    "percentiles": [
+                        8.0,
+                        11.0,
+                        16.0
+                    ],
+                    "std_dev": 4.467945575714111
+                }
+            },
+            "target_time_urgency": 1.0,
+            "topological_features": {
+                "spatial_clustering": 0.8461059331893921,
+                "target_density": 0.08216826617717743
+            }
+        },
+        "scenario_name": "secondary_1042_from_scenario_50_ratio-40_T31_R619",
+        "scenario_path": "../data/secondary_scenarios/secondary_1042_from_scenario_50_ratio-40_T31_R619.json",
+        "timestamp": 17690624994883153,
+        "true_label": "NSGAII"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 1.0,
+                "problem_complexity": 4.944487571716309
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 265.52728271484375,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.44624999165534973,
+                "previous_time": 0.7246360182762146
+            },
+            "num_resource_types": 4,
+            "num_resources": 800,
+            "num_target_types": 5,
+            "num_targets": 110,
+            "resource_target_ratio": 7.0,
+            "scenario_name": "secondary_1032_from_scenario_22_ratio40_T110_R800",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 78,
+                "target_change_ratio": 0.4000000059604645
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.49498575925827026,
+                    "std_dev": 0.28496041893959045
+                },
+                "resource_capacity": {
+                    "mean": 37.625,
+                    "std_dev": 8.388049125671387
+                },
+                "target_distance": {
+                    "max": 0.2888599932193756,
+                    "mean": 0.16279581189155579,
+                    "min": 0.023908192291855812,
+                    "percentiles": [
+                        0.12047667801380157,
+                        0.16001653671264648,
+                        0.22412386536598206
+                    ],
+                    "std_dev": 0.06610580533742905
+                },
+                "time_window": {
+                    "mean": 12.309090614318848,
+                    "percentiles": [
+                        8.0,
+                        12.0,
+                        17.0
+                    ],
+                    "std_dev": 5.116365432739258
+                }
+            },
+            "target_time_urgency": 1.0,
+            "topological_features": {
+                "spatial_clustering": 0.9176429510116577,
+                "target_density": 0.25295132398605347
+            }
+        },
+        "scenario_name": "secondary_1032_from_scenario_22_ratio40_T110_R800",
+        "scenario_path": "../data/secondary_scenarios/secondary_1032_from_scenario_22_ratio40_T110_R800.json",
+        "timestamp": 17690625102687107,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.8693839311599731,
+                "problem_complexity": 2.9717395305633545
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 23.728315353393555,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.41880300641059875,
+                "previous_time": 0.5600370168685913
+            },
+            "num_resource_types": 4,
+            "num_resources": 117,
+            "num_target_types": 5,
+            "num_targets": 8,
+            "resource_target_ratio": 14.0,
+            "scenario_name": "secondary_1057_from_scenario_88_ratio-20_T8_R117",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 0,
+                "target_change_ratio": -0.20000000298023224
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.49512240290641785,
+                    "std_dev": 0.29188624024391174
+                },
+                "resource_capacity": {
+                    "mean": 37.69230651855469,
+                    "std_dev": 8.30864143371582
+                },
+                "target_distance": {
+                    "max": 0.2380530834197998,
+                    "mean": 0.1558586061000824,
+                    "min": 0.04360203072428703,
+                    "percentiles": [
+                        0.11500514298677444,
+                        0.18348540365695953,
+                        0.23276935517787933
+                    ],
+                    "std_dev": 0.06752987205982208
+                },
+                "time_window": {
+                    "mean": 24.625,
+                    "percentiles": [
+                        20.0,
+                        25.0,
+                        30.0
+                    ],
+                    "std_dev": 7.087621212005615
+                }
+            },
+            "target_time_urgency": 0.8693839311599731,
+            "topological_features": {
+                "spatial_clustering": 0.6935672760009766,
+                "target_density": 0.0361768864095211
+            }
+        },
+        "scenario_name": "secondary_1057_from_scenario_88_ratio-20_T8_R117",
+        "scenario_path": "../data/secondary_scenarios/secondary_1057_from_scenario_88_ratio-20_T8_R117.json",
+        "timestamp": 17690625113891846,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 1.0,
+                "problem_complexity": 3.0102999210357666
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 17.870893478393555,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.3978489935398102,
+                "previous_time": 0.5625969767570496
+            },
+            "num_resource_types": 4,
+            "num_resources": 93,
+            "num_target_types": 5,
+            "num_targets": 11,
+            "resource_target_ratio": 8.0,
+            "scenario_name": "secondary_1048_from_scenario_68_ratio40_T11_R93",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 7,
+                "target_change_ratio": 0.4000000059604645
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.47951269149780273,
+                    "std_dev": 0.2702372074127197
+                },
+                "resource_capacity": {
+                    "mean": 38.602149963378906,
+                    "std_dev": 8.4993896484375
+                },
+                "target_distance": {
+                    "max": 0.27496179938316345,
+                    "mean": 0.12492800503969193,
+                    "min": 0.01847590133547783,
+                    "percentiles": [
+                        0.030401883646845818,
+                        0.11650991439819336,
+                        0.2330009788274765
+                    ],
+                    "std_dev": 0.09338810294866562
+                },
+                "time_window": {
+                    "mean": 12.727272987365723,
+                    "percentiles": [
+                        11.0,
+                        12.0,
+                        17.0
+                    ],
+                    "std_dev": 4.201534271240234
+                }
+            },
+            "target_time_urgency": 1.0,
+            "topological_features": {
+                "spatial_clustering": 0.8039196133613586,
+                "target_density": 0.025992006063461304
+            }
+        },
+        "scenario_name": "secondary_1048_from_scenario_68_ratio40_T11_R93",
+        "scenario_path": "../data/secondary_scenarios/secondary_1048_from_scenario_68_ratio40_T11_R93.json",
+        "timestamp": 17690625123227493,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.46948468685150146,
+                "problem_complexity": 4.565859794616699
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 241.5666046142578,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.4019339978694916,
+                "previous_time": 0.9570189714431763
+            },
+            "num_resource_types": 4,
+            "num_resources": 736,
+            "num_target_types": 5,
+            "num_targets": 50,
+            "resource_target_ratio": 14.0,
+            "scenario_name": "secondary_1008_from_scenario_11_ratio-20_T50_R736",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 0,
+                "target_change_ratio": -0.20000000298023224
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.4936549961566925,
+                    "std_dev": 0.2848239541053772
+                },
+                "resource_capacity": {
+                    "mean": 37.486412048339844,
+                    "std_dev": 8.34463882446289
+                },
+                "target_distance": {
+                    "max": 0.2864419221878052,
+                    "mean": 0.16512428224086761,
+                    "min": 0.02818790264427662,
+                    "percentiles": [
+                        0.11830013245344162,
+                        0.15695488452911377,
+                        0.22157424688339233
+                    ],
+                    "std_dev": 0.06578809767961502
+                },
+                "time_window": {
+                    "mean": 24.860000610351563,
+                    "percentiles": [
+                        16.0,
+                        26.0,
+                        35.0
+                    ],
+                    "std_dev": 10.035955429077148
+                }
+            },
+            "target_time_urgency": 0.46948468685150146,
+            "topological_features": {
+                "spatial_clustering": 0.8486451506614685,
+                "target_density": 0.12141512334346771
+            }
+        },
+        "scenario_name": "secondary_1008_from_scenario_11_ratio-20_T50_R736",
+        "scenario_path": "../data/secondary_scenarios/secondary_1008_from_scenario_11_ratio-20_T50_R736.json",
+        "timestamp": 17690625168425871,
+        "true_label": "NSGAII"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.7665033936500549,
+                "problem_complexity": 3.8235394954681396
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 31.314939498901367,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.3963960111141205,
+                "previous_time": 0.6474360227584839
+            },
+            "num_resource_types": 4,
+            "num_resources": 222,
+            "num_target_types": 5,
+            "num_targets": 30,
+            "resource_target_ratio": 7.0,
+            "scenario_name": "secondary_1000_from_scenario_100_ratio60_T30_R222",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 18,
+                "target_change_ratio": 0.6000000238418579
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.46241122484207153,
+                    "std_dev": 0.2943621277809143
+                },
+                "resource_capacity": {
+                    "mean": 36.98198318481445,
+                    "std_dev": 7.73372220993042
+                },
+                "target_distance": {
+                    "max": 0.2956731915473938,
+                    "mean": 0.19691866636276245,
+                    "min": 0.05679495632648468,
+                    "percentiles": [
+                        0.10766102373600006,
+                        0.23646223545074463,
+                        0.2574251890182495
+                    ],
+                    "std_dev": 0.07795536518096924
+                },
+                "time_window": {
+                    "mean": 25.733333587646484,
+                    "percentiles": [
+                        17.0,
+                        27.0,
+                        35.0
+                    ],
+                    "std_dev": 9.458446502685547
+                }
+            },
+            "target_time_urgency": 0.7665033936500549,
+            "topological_features": {
+                "spatial_clustering": 0.9122921824455261,
+                "target_density": 0.09453561156988144
+            }
+        },
+        "scenario_name": "secondary_1000_from_scenario_100_ratio60_T30_R222",
+        "scenario_path": "../data/secondary_scenarios/secondary_1000_from_scenario_100_ratio60_T30_R222.json",
+        "timestamp": 17690625209123150,
+        "true_label": "Greedy_Difference"
+    },
+    {
+        "features": {
+            "complexity_features": {
+                "constraint_tightness": 0.37670478224754333,
+                "problem_complexity": 4.889912128448486
+            },
+            "decision_preferance": 2.0,
+            "historical_metrics": {
+                "previous_cost": 239.11459350585938,
+                "previous_coverage": 1.0,
+                "previous_resource_utilization": 0.4074999988079071,
+                "previous_time": 0.5540369749069214
+            },
+            "num_resource_types": 4,
+            "num_resources": 712,
+            "num_target_types": 5,
+            "num_targets": 109,
+            "resource_target_ratio": 6.0,
+            "scenario_name": "secondary_1060_from_scenario_9_ratio80_T109_R712",
+            "secondary_planning_features": {
+                "is_secondary_planning": true,
+                "original_target_count": 60,
+                "target_change_ratio": 0.800000011920929
+            },
+            "statistical_features": {
+                "cost_distribution": {
+                    "mean": 0.5060992240905762,
+                    "std_dev": 0.28801411390304565
+                },
+                "resource_capacity": {
+                    "mean": 37.30337142944336,
+                    "std_dev": 8.212647438049316
+                },
+                "target_distance": {
+                    "max": 0.28975963592529297,
+                    "mean": 0.1812131404876709,
+                    "min": 0.051969483494758606,
+                    "percentiles": [
+                        0.13188020884990692,
+                        0.17831653356552124,
+                        0.2480776309967041
+                    ],
+                    "std_dev": 0.06252048909664154
+                },
+                "time_window": {
+                    "mean": 27.43119239807129,
+                    "percentiles": [
+                        21.0,
+                        29.0,
+                        33.0
+                    ],
+                    "std_dev": 8.131224632263184
+                }
+            },
+            "target_time_urgency": 0.37670478224754333,
+            "topological_features": {
+                "spatial_clustering": 0.9268209338188171,
+                "target_density": 0.24298012256622314
+            }
+        },
+        "scenario_name": "secondary_1060_from_scenario_9_ratio80_T109_R712",
+        "scenario_path": "../data/secondary_scenarios/secondary_1060_from_scenario_9_ratio80_T109_R712.json",
+        "timestamp": 17690625302879273,
+        "true_label": "Greedy_Difference"
+    }
+]

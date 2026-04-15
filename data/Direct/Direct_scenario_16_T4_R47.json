@@ -1,0 +1,39 @@
+{
+    "result": {
+        "attack_plan": [],
+        "used_airforce": [
+            {
+                "airport": "base1",
+                "used_plane_name": "",
+                "used_plane_num": "",
+                "used_plane_type": "",
+                "used_weapon_type": "",
+                "used_weapon_num": "",
+                "used_warhead_type": "",
+                "used_warhead_num": ""
+            }
+        ],
+        "assign_plan": [],
+        "unfinished_target": "target2",
+        "statistics_parameter": [
+            {
+                "TotalCost": "0.000000"
+            },
+            {
+                "CmpTime": "0.000000"
+            },
+            {
+                "TargetCoverRate": "0.000000"
+            },
+            {
+                "TourNum": "0"
+            },
+            {
+                "ResourceUseRate": "0.000000"
+            },
+            {
+                "CalculateTime": "0.154541"
+            }
+        ]
+    }
+}

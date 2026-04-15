@@ -1,0 +1,17 @@
+{
+    "dataset_info": {
+        "primary_test_scenarios": 61,
+        "primary_training_scenarios": 140,
+        "secondary_test_scenarios": 20,
+        "secondary_training_scenarios": 42,
+        "total_scenarios": 263
+    },
+    "execution_time": 17695090172935172,
+    "system_stats": {
+        "average_performance": 0.0,
+        "model_trained": true,
+        "successful_recommendations": 0,
+        "total_scenarios": 0,
+        "training_time": 17695090141423175
+    }
+}

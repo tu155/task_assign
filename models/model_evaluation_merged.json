@@ -1,0 +1,77 @@
+{
+    "algorithm_accuracy": {
+        "Exact_Cost": 0.0,
+        "Exact_Time": 0.3125,
+        "Greedy_Cost": 0.9583333333333334,
+        "Greedy_Difference": 0.46153846153846156,
+        "Greedy_Time": 0.0,
+        "NSGAII": 0.8888888888888888
+    },
+    "confusion_matrix": [
+        [
+            5,
+            0,
+            11,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            1,
+            0,
+            24,
+            0,
+            1,
+            1
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            1,
+            23,
+            0
+        ],
+        [
+            1,
+            0,
+            6,
+            0,
+            0,
+            6
+        ]
+    ],
+    "evaluation_time": 17695090172918300,
+    "planning_type": "merged",
+    "primary_accuracy": 0.7704918032786885,
+    "primary_by_algorithm": {
+        "Exact_Time": 16,
+        "Greedy_Cost": 24,
+        "NSGAII": 21
+    },
+    "primary_test_count": 61,
+    "secondary_accuracy": 0.5789473684210527,
+    "secondary_by_algorithm": {
+        "Greedy_Difference": 13,
+        "NSGAII": 6
+    },
+    "secondary_test_count": 19,
+    "total_accuracy": 0.725,
+    "total_test_count": 80
+}

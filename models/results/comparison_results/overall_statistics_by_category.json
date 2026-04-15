@@ -1,0 +1,205 @@
+{
+    "categories": {
+        "A_Small_Exact": {
+            "algorithm_stats": {
+                "Exact_Cost": {
+                    "avg_computation_time": 0.17505803777777776,
+                    "avg_coverage": 100.0,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 24.563457868272163,
+                    "avg_min_time": 0.6995046484603301,
+                    "avg_resource_utilization": 39.84275085516121,
+                    "best_algorithm_ratio": 0.0,
+                    "feasible_count": 45,
+                    "historical_best_cost": 7.265894626885517,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.2935969230769231,
+                    "scenario_count": 45,
+                    "success_rate": 100.0
+                },
+                "Exact_Time": {
+                    "avg_computation_time": 0.9274580333333335,
+                    "avg_coverage": 100.0,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 24.563457868272163,
+                    "avg_min_time": 0.6995046484603301,
+                    "avg_resource_utilization": 39.84275085516121,
+                    "best_algorithm_ratio": 46.666666666666664,
+                    "feasible_count": 45,
+                    "historical_best_cost": 7.265894626885517,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.2935969230769231,
+                    "scenario_count": 45,
+                    "success_rate": 100.0
+                },
+                "Greedy_Difference": {
+                    "avg_computation_time": 0.014471855555555559,
+                    "avg_coverage": 91.41013307679977,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 38.8120346770402,
+                    "avg_min_time": 0.6929056974345169,
+                    "avg_resource_utilization": 41.55025626555515,
+                    "best_algorithm_ratio": 15.555555555555555,
+                    "feasible_count": 9,
+                    "historical_best_cost": 16.862488750080225,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.499,
+                    "scenario_count": 45,
+                    "success_rate": 20.0
+                },
+                "NSGAII": {
+                    "avg_computation_time": 0.4065846977777777,
+                    "avg_coverage": 94.95699054032387,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 31.92252756431056,
+                    "avg_min_time": 0.6677647633020001,
+                    "avg_resource_utilization": 37.97452152918687,
+                    "best_algorithm_ratio": 37.77777777777778,
+                    "feasible_count": 45,
+                    "historical_best_cost": 6.57063307928996,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.2920151898734177,
+                    "scenario_count": 45,
+                    "success_rate": 100.0
+                }
+            },
+            "scenario_count": 45
+        },
+        "B_Medium_MultiObjective": {
+            "algorithm_stats": {
+                "Exact_Cost": {
+                    "avg_computation_time": 1.3121819625000002,
+                    "avg_coverage": 100.0,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 48.760341726236426,
+                    "avg_min_time": 0.7310649985151327,
+                    "avg_resource_utilization": 39.130168104881236,
+                    "best_algorithm_ratio": 0.0,
+                    "feasible_count": 16,
+                    "historical_best_cost": 39.78240539855313,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.47012363636363635,
+                    "scenario_count": 29,
+                    "success_rate": 55.172413793103445
+                },
+                "Exact_Time": {
+                    "avg_computation_time": 3.0170776625,
+                    "avg_coverage": 100.0,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 48.760341726236426,
+                    "avg_min_time": 0.7310649985151327,
+                    "avg_resource_utilization": 39.130168104881236,
+                    "best_algorithm_ratio": 51.724137931034484,
+                    "feasible_count": 16,
+                    "historical_best_cost": 39.78240539855313,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.47012363636363635,
+                    "scenario_count": 29,
+                    "success_rate": 55.172413793103445
+                },
+                "Greedy_Difference": {
+                    "avg_computation_time": 0.05353652,
+                    "avg_coverage": 99.44444444444444,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 116.88428679681435,
+                    "avg_min_time": 0.7790700358849252,
+                    "avg_resource_utilization": 51.68274798494939,
+                    "best_algorithm_ratio": 6.896551724137931,
+                    "feasible_count": 5,
+                    "historical_best_cost": 81.07708188287371,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.6549719298245613,
+                    "scenario_count": 29,
+                    "success_rate": 17.24137931034483
+                },
+                "NSGAII": {
+                    "avg_computation_time": 1.3721011517241375,
+                    "avg_coverage": 99.90421455938697,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 82.98414985730875,
+                    "avg_min_time": 0.7225074412575042,
+                    "avg_resource_utilization": 41.326379387771894,
+                    "best_algorithm_ratio": 41.37931034482759,
+                    "feasible_count": 29,
+                    "historical_best_cost": 49.675294031835676,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.4626413793103449,
+                    "scenario_count": 29,
+                    "success_rate": 100.0
+                }
+            },
+            "scenario_count": 29
+        },
+        "C_Large_Heuristic": {
+            "algorithm_stats": {
+                "Greedy_Cost": {
+                    "avg_computation_time": 0.2852623999999999,
+                    "avg_coverage": 100.0,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 150.84191940058562,
+                    "avg_min_time": 0.7815303211732054,
+                    "avg_resource_utilization": 40.59155382538391,
+                    "best_algorithm_ratio": 37.38317757009346,
+                    "feasible_count": 48,
+                    "historical_best_cost": 110.43019837471012,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.5239428571428572,
+                    "scenario_count": 107,
+                    "success_rate": 44.85981308411215
+                },
+                "Greedy_Difference": {
+                    "avg_computation_time": 0.30337048214285706,
+                    "avg_coverage": 97.93961644242782,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 241.3114346481456,
+                    "avg_min_time": 0.7380688095106215,
+                    "avg_resource_utilization": 50.31384868758495,
+                    "best_algorithm_ratio": 18.69158878504673,
+                    "feasible_count": 28,
+                    "historical_best_cost": 102.81957270261982,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.5150169491525424,
+                    "scenario_count": 107,
+                    "success_rate": 26.168224299065418
+                },
+                "Greedy_Time": {
+                    "avg_computation_time": 0.2866449916666666,
+                    "avg_coverage": 100.0,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 233.7040301308866,
+                    "avg_min_time": 0.7342333922143568,
+                    "avg_resource_utilization": 40.59155382538391,
+                    "best_algorithm_ratio": 5.607476635514018,
+                    "feasible_count": 48,
+                    "historical_best_cost": 180.1186502992524,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.5239428571428572,
+                    "scenario_count": 107,
+                    "success_rate": 44.85981308411215
+                },
+                "NSGAII": {
+                    "avg_computation_time": 3.1020872,
+                    "avg_coverage": 100.0,
+                    "avg_difference": 0.0,
+                    "avg_min_cost": 132.60151229529754,
+                    "avg_min_time": 0.7717705233676343,
+                    "avg_resource_utilization": 39.07719236051778,
+                    "best_algorithm_ratio": 38.31775700934579,
+                    "feasible_count": 66,
+                    "historical_best_cost": 74.8425218073502,
+                    "historical_best_coverage": 100.0,
+                    "historical_best_time": 0.4532842105263158,
+                    "scenario_count": 107,
+                    "success_rate": 61.6822429906542
+                }
+            },
+            "scenario_count": 107
+        },
+        "D_Replanning": {
+            "algorithm_stats": null,
+            "scenario_count": 0
+        }
+    },
+    "scenarios_with_data": 181,
+    "total_scenarios": 182
+}

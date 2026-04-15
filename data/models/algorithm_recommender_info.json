@@ -1,0 +1,52 @@
+{
+    "algorithm_labels": [
+        "Exact_Time",
+        "Exact_Cost",
+        "NSGAII",
+        "Greedy_Time",
+        "Greedy_Cost",
+        "Greedy_Difference"
+    ],
+    "feature_names": [
+        "num_targets",
+        "num_resources",
+        "num_target_types",
+        "num_resource_types",
+        "resource_target_ratio",
+        "target_time_urgency",
+        "urgency_leveltarget_dist_mean",
+        "target_dist_std",
+        "resource_cap_mean",
+        "resource_cap_std",
+        "time_window_mean",
+        "time_window_std",
+        "cost_mean",
+        "cost_std",
+        "spatial_clustering",
+        "target_density",
+        "problem_complexity",
+        "constraint_tightness",
+        "is_secondary",
+        "target_change_ratio",
+        "original_target_count",
+        "prev_coverage",
+        "prev_cost",
+        "prev_time",
+        "prev_resource_util",
+        "dist_percentile_25",
+        "dist_percentile_50",
+        "dist_percentile_75",
+        "time_percentile_25",
+        "time_percentile_50"
+    ],
+    "model_parameters": {
+        "cv_folds": 1,
+        "max_categories": 5,
+        "max_depth": 3,
+        "min_sample_count": 3,
+        "truncate_pruned_tree": true,
+        "use_1se_rule": true
+    },
+    "model_type": "DecisionTree",
+    "training_time": 17695090141327587
+}

@@ -1,0 +1,4896 @@
+{
+    "result": {
+        "attack_plan": [],
+        "group_plan": [
+            {
+                "batch_id": "",
+                "grp_id": "634902b68f970-0",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_89",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target0",
+                        "target_distance": "8.295600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b694088-1",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_197",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target0",
+                        "target_distance": "8.295600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b696284-2",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_393",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target0",
+                        "target_distance": "8.295600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6983b8-3",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_425",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target0",
+                        "target_distance": "8.295600",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target2",
+                        "target_distance": "8.762700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b69b8d8-4",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_56",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target1",
+                        "target_distance": "21.525400",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target4",
+                        "target_distance": "14.929600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b69ed94-5",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_338",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target1",
+                        "target_distance": "21.525400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6a0c0c-6",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_424",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target1",
+                        "target_distance": "21.525400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6a2c14-7",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_429",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target1",
+                        "target_distance": "21.525400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6a49c4-8",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_74",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target2",
+                        "target_distance": "8.762700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6a6968-9",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_235",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target2",
+                        "target_distance": "8.762700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6a8c90-a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_330",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target2",
+                        "target_distance": "8.762700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6aacfc-b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_409",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target2",
+                        "target_distance": "8.762700",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target10",
+                        "target_distance": "4.621800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6adca4-c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_80",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target3",
+                        "target_distance": "4.115000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6afb80-d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_101",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target3",
+                        "target_distance": "4.115000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6b1d18-e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_107",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target3",
+                        "target_distance": "4.115000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6b3a64-f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_227",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target3",
+                        "target_distance": "4.115000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6b58dc-10",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_267",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target3",
+                        "target_distance": "4.115000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6b79ac-11",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_288",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target3",
+                        "target_distance": "4.115000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6b9950-12",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_348",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target3",
+                        "target_distance": "4.115000",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target5",
+                        "target_distance": "14.251400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6bca88-13",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_391",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target3",
+                        "target_distance": "4.115000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6bec20-14",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_413",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target3",
+                        "target_distance": "4.115000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6c0a98-15",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_464",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target3",
+                        "target_distance": "4.115000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6c2a3c-16",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_5",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target4",
+                        "target_distance": "14.929600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6c4918-17",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_163",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target4",
+                        "target_distance": "14.929600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6c6984-18",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_318",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target4",
+                        "target_distance": "14.929600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6c86d0-19",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_499",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target4",
+                        "target_distance": "14.929600",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target10",
+                        "target_distance": "4.621800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6cb998-1a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_9",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target5",
+                        "target_distance": "14.251400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6cd7ac-1b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_51",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target5",
+                        "target_distance": "14.251400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6cf5c0-1c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_69",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target5",
+                        "target_distance": "14.251400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6d1758-1d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_78",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target5",
+                        "target_distance": "14.251400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6d34a4-1e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_210",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target5",
+                        "target_distance": "14.251400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6d57cc-1f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_270",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target5",
+                        "target_distance": "14.251400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6d7644-20",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_355",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target5",
+                        "target_distance": "14.251400",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target8",
+                        "target_distance": "9.051300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6da5ec-21",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_462",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target5",
+                        "target_distance": "14.251400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6dc400-22",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_487",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target5",
+                        "target_distance": "14.251400",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6de214-23",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_10",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6e0280-24",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_19",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6e2224-25",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_88",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6e409c-26",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_106",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6e5fdc-27",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_156",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6e9240-28",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_319",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6eb180-29",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_345",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6ececc-2a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_352",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6ef000-2b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_368",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6f0f40-2c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_446",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6f2db8-2d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_454",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target6",
+                        "target_distance": "13.770500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6f4c30-2e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_48",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6f6b0c-2f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_114",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6fa540-30",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_129",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6fc4e4-31",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_181",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b6fe230-32",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_195",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7000a8-33",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_260",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b701f20-34",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_265",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b705120-35",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_275",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7070c4-36",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_394",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b709130-37",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_405",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b70b00c-38",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_473",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target7",
+                        "target_distance": "3.698800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b70cf4c-39",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_1",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target8",
+                        "target_distance": "9.051300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b70ee8c-3a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_121",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target8",
+                        "target_distance": "9.051300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b710e94-3b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_178",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target8",
+                        "target_distance": "9.051300",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target9",
+                        "target_distance": "9.600800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b71415c-3c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_180",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target8",
+                        "target_distance": "9.051300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b715f0c-3d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_241",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target8",
+                        "target_distance": "9.051300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b717cbc-3e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_317",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target8",
+                        "target_distance": "9.051300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b719cc4-3f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_392",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target8",
+                        "target_distance": "9.051300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b71be5c-40",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_418",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target8",
+                        "target_distance": "9.051300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b71e0bc-41",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_465",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target8",
+                        "target_distance": "9.051300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b71fffc-42",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_50",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target9",
+                        "target_distance": "9.600800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b721e74-43",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_105",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target9",
+                        "target_distance": "9.600800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b723db4-44",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_127",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target9",
+                        "target_distance": "9.600800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b725bc8-45",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_135",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target9",
+                        "target_distance": "9.600800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b727cfc-46",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_157",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target9",
+                        "target_distance": "9.600800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b729bd8-47",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_233",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target9",
+                        "target_distance": "9.600800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b72ba50-48",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_351",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target9",
+                        "target_distance": "9.600800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b72d990-49",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_364",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target9",
+                        "target_distance": "9.600800",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target11",
+                        "target_distance": "6.634200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b730a00-4a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_366",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target9",
+                        "target_distance": "9.600800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b732940-4b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_65",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target10",
+                        "target_distance": "4.621800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b734754-4c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_94",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target10",
+                        "target_distance": "4.621800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b736568-4d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_128",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target10",
+                        "target_distance": "4.621800",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target14",
+                        "target_distance": "1.537200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b739574-4e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_131",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target10",
+                        "target_distance": "4.621800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b73b2c0-4f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_6",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target11",
+                        "target_distance": "6.634200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b73d264-50",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_14",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target11",
+                        "target_distance": "6.634200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b73f0dc-51",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_36",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target11",
+                        "target_distance": "6.634200",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target20",
+                        "target_distance": "11.183300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7422dc-52",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_146",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target11",
+                        "target_distance": "6.634200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b74408c-53",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_257",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target11",
+                        "target_distance": "6.634200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b745f04-54",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_369",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target11",
+                        "target_distance": "6.634200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b747c50-55",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_371",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target11",
+                        "target_distance": "6.634200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b749ac8-56",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_407",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target11",
+                        "target_distance": "6.634200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b74bbfc-57",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_485",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target11",
+                        "target_distance": "6.634200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b74de5c-58",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_98",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target12",
+                        "target_distance": "17.316900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b750120-59",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_283",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target12",
+                        "target_distance": "17.316900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b753f3c-5a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_307",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target12",
+                        "target_distance": "17.316900",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target17",
+                        "target_distance": "2.562900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7570d8-5b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_493",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target12",
+                        "target_distance": "17.316900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b759018-5c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_26",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target13",
+                        "target_distance": "22.268300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b75ae2c-5d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_38",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target13",
+                        "target_distance": "22.268300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b75cca4-5e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_55",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target13",
+                        "target_distance": "22.268300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b75ee3c-5f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_102",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target13",
+                        "target_distance": "22.268300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b760cb4-60",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_103",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target13",
+                        "target_distance": "22.268300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b762b2c-61",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_264",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target13",
+                        "target_distance": "22.268300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7648dc-62",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_268",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target13",
+                        "target_distance": "22.268300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b76681c-63",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_282",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target13",
+                        "target_distance": "22.268300",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target20",
+                        "target_distance": "11.183300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7696fc-64",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_295",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target13",
+                        "target_distance": "22.268300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b76b574-65",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_492",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target13",
+                        "target_distance": "22.268300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b76d388-66",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_21",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target14",
+                        "target_distance": "1.537200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b76f32c-67",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_208",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target14",
+                        "target_distance": "1.537200",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target16",
+                        "target_distance": "1.035100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b772e28-68",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_280",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target14",
+                        "target_distance": "1.537200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b774ca0-69",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_397",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target14",
+                        "target_distance": "1.537200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b776ca8-6a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_0",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b778a58-6b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_139",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b77a934-6c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_141",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b77c6e4-6d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_299",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b77f948-6e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_356",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7817c0-6f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_375",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b785578-70",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_404",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7874b8-71",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_422",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b789204-72",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_463",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b78b018-73",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_480",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b78cd64-74",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_489",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target15",
+                        "target_distance": "10.656000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b78eb14-75",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_31",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target16",
+                        "target_distance": "1.035100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b790a54-76",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_82",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target16",
+                        "target_distance": "1.035100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b79273c-77",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_84",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target16",
+                        "target_distance": "1.035100",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target17",
+                        "target_distance": "2.562900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7954f0-78",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_124",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target17",
+                        "target_distance": "2.562900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7972a0-79",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_162",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target17",
+                        "target_distance": "2.562900",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target18",
+                        "target_distance": "11.207600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b79a11c-7a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_481",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target17",
+                        "target_distance": "2.562900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b79becc-7b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_496",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target17",
+                        "target_distance": "2.562900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b79dc18-7c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_150",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target18",
+                        "target_distance": "11.207600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b79faf4-7d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_222",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target18",
+                        "target_distance": "11.207600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7a18a4-7e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_303",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target18",
+                        "target_distance": "11.207600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7a37e4-7f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_387",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target18",
+                        "target_distance": "11.207600",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target19",
+                        "target_distance": "11.039500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7a6534-80",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_248",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target19",
+                        "target_distance": "11.039500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7a853c-81",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_258",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target19",
+                        "target_distance": "11.039500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7aa288-82",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_274",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target19",
+                        "target_distance": "11.039500",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target31",
+                        "target_distance": "7.128200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7ad2f8-83",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_329",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target19",
+                        "target_distance": "11.039500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7af238-84",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_61",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target20",
+                        "target_distance": "11.183300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7b11dc-85",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_169",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target20",
+                        "target_distance": "11.183300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7b43dc-86",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_184",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target20",
+                        "target_distance": "11.183300",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target23",
+                        "target_distance": "4.138200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7b8f40-87",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_185",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target20",
+                        "target_distance": "11.183300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7baf48-88",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_188",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target20",
+                        "target_distance": "11.183300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7bcbcc-89",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_321",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target20",
+                        "target_distance": "11.183300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7beb0c-8a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_380",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target20",
+                        "target_distance": "11.183300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7c0858-8b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_406",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target20",
+                        "target_distance": "11.183300",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7c2608-8c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_147",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target21",
+                        "target_distance": "20.826800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7c4548-8d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_249",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target21",
+                        "target_distance": "20.826800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7c6870-8e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_328",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target21",
+                        "target_distance": "20.826800",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target26",
+                        "target_distance": "15.092500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7c97b4-8f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_416",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target21",
+                        "target_distance": "20.826800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7cb62c-90",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_67",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target22",
+                        "target_distance": "14.133800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7cd56c-91",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_262",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target22",
+                        "target_distance": "14.133800",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target26",
+                        "target_distance": "15.092500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7d16a8-92",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_309",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target22",
+                        "target_distance": "14.133800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7d3458-93",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_443",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target22",
+                        "target_distance": "14.133800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7d5334-94",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_68",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target23",
+                        "target_distance": "4.138200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7d70e4-95",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_118",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target23",
+                        "target_distance": "4.138200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7d8f5c-96",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_201",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target23",
+                        "target_distance": "4.138200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7daca8-97",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_204",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target23",
+                        "target_distance": "4.138200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7dcabc-98",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_337",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target23",
+                        "target_distance": "4.138200",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target25",
+                        "target_distance": "2.941800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7dfa64-99",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_442",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target23",
+                        "target_distance": "4.138200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7e17b0-9a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_456",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target23",
+                        "target_distance": "4.138200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7e37b8-9b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_469",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target23",
+                        "target_distance": "4.138200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7e56f8-9c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_477",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target23",
+                        "target_distance": "4.138200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7e769c-9d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_32",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target24",
+                        "target_distance": "6.454200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7eba94-9e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_271",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target24",
+                        "target_distance": "6.454200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7edb64-9f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_310",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target24",
+                        "target_distance": "6.454200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7efa40-a0",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_347",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target24",
+                        "target_distance": "6.454200",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target26",
+                        "target_distance": "15.092500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7f36cc-a1",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_46",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target25",
+                        "target_distance": "2.941800",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target29",
+                        "target_distance": "2.114800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7f65ac-a2",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_134",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target25",
+                        "target_distance": "2.941800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7f82f8-a3",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_191",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target25",
+                        "target_distance": "2.941800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7fa170-a4",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_212",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target25",
+                        "target_distance": "2.941800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7fbebc-a5",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_223",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target25",
+                        "target_distance": "2.941800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7fdc08-a6",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_244",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target25",
+                        "target_distance": "2.941800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b7ffa1c-a7",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_246",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target25",
+                        "target_distance": "2.941800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8017cc-a8",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_259",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target25",
+                        "target_distance": "2.941800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8036a8-a9",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_340",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target25",
+                        "target_distance": "2.941800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b80532c-aa",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_41",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target26",
+                        "target_distance": "15.092500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8070dc-ab",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_44",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target26",
+                        "target_distance": "15.092500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b808ef0-ac",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_86",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target26",
+                        "target_distance": "15.092500",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b80ad04-ad",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_354",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target26",
+                        "target_distance": "15.092500",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target39",
+                        "target_distance": "14.159600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b80dbe4-ae",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_117",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b810998-af",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_120",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b81293c-b0",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_333",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b814688-b1",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_377",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b81649c-b2",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_419",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b81824c-b3",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_439",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b81e32c-b4",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_445",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8202d0-b5",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_470",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b82201c-b6",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_476",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b823d04-b7",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_482",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target27",
+                        "target_distance": "15.399700",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b825b7c-b8",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_43",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target28",
+                        "target_distance": "12.543100",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target31",
+                        "target_distance": "7.128200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b828994-b9",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_79",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target28",
+                        "target_distance": "12.543100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b82a870-ba",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_215",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target28",
+                        "target_distance": "12.543100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b82c4f4-bb",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_410",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target28",
+                        "target_distance": "12.543100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b82e36c-bc",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_73",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target29",
+                        "target_distance": "2.114800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b83011c-bd",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_125",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target29",
+                        "target_distance": "2.114800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b831e68-be",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_132",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target29",
+                        "target_distance": "2.114800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8350cc-bf",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_165",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target29",
+                        "target_distance": "2.114800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b836e7c-c0",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_286",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target29",
+                        "target_distance": "2.114800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b838cf4-c1",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_301",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target29",
+                        "target_distance": "2.114800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b83aa40-c2",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_363",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target29",
+                        "target_distance": "2.114800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b83c728-c3",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_437",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target29",
+                        "target_distance": "2.114800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b83e668-c4",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_498",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target29",
+                        "target_distance": "2.114800",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target34",
+                        "target_distance": "11.650900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8413b8-c5",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_126",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b843230-c6",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_196",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b844f18-c7",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_243",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b846df4-c8",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_254",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b848ba4-c9",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_276",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b84a8f0-ca",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_313",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b84c768-cb",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_342",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b84e450-cc",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_378",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b85019c-cd",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_411",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b85320c-ce",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_484",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b854ef4-cf",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_491",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target30",
+                        "target_distance": "7.570000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b856dd0-d0",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_160",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target31",
+                        "target_distance": "7.128200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b858b80-d1",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_384",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target31",
+                        "target_distance": "7.128200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b85a9f8-d2",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_488",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target31",
+                        "target_distance": "7.128200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b85c744-d3",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_18",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target32",
+                        "target_distance": "11.014600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b85ed8c-d4",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_149",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target32",
+                        "target_distance": "11.014600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b860ccc-d5",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_211",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target32",
+                        "target_distance": "11.014600",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target38",
+                        "target_distance": "21.104600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b863a1c-d6",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_467",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target32",
+                        "target_distance": "11.014600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8658f8-d7",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_25",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b868710-d8",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_93",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b86a588-d9",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_99",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b86c2d4-da",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_192",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b86e278-db",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_217",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b872030-dc",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_218",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b873ea8-dd",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_234",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b875d20-de",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_294",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b877ad0-df",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_302",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b879880-e0",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_357",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b87b888-e1",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_458",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target33",
+                        "target_distance": "11.010200",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b87d700-e2",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_60",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target34",
+                        "target_distance": "11.650900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b882d54-e3",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_90",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target34",
+                        "target_distance": "11.650900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b884b68-e4",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_209",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target34",
+                        "target_distance": "11.650900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b886850-e5",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_229",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target34",
+                        "target_distance": "11.650900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b88872c-e6",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_256",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target34",
+                        "target_distance": "11.650900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b88a478-e7",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_403",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target34",
+                        "target_distance": "11.650900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b88c2f0-e8",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_483",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target34",
+                        "target_distance": "11.650900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b88e0a0-e9",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_494",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target34",
+                        "target_distance": "11.650900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b88fdec-ea",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_497",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target34",
+                        "target_distance": "11.650900",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b891d90-eb",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_22",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b894504-ec",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_23",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8963e0-ed",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_35",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8980c8-ee",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_85",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b899db0-ef",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_112",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b89bbc4-f0",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_174",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b89d8ac-f1",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_202",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b89f724-f2",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_290",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8a1470-f3",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_433",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8a3284-f4",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_478",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target35",
+                        "target_distance": "16.882100",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8a5354-f5",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_40",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target36",
+                        "target_distance": "0.666800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8a8554-f6",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_57",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target36",
+                        "target_distance": "0.666800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8aa2a0-f7",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_186",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target36",
+                        "target_distance": "0.666800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8ac1e0-f8",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_225",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target36",
+                        "target_distance": "0.666800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8adec8-f9",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_230",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target36",
+                        "target_distance": "0.666800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8afd40-fa",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_236",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target36",
+                        "target_distance": "0.666800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8b19c4-fb",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_300",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target36",
+                        "target_distance": "0.666800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8b3710-fc",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_336",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target36",
+                        "target_distance": "0.666800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8b5524-fd",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_441",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target36",
+                        "target_distance": "0.666800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8b720c-fe",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_453",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target36",
+                        "target_distance": "0.666800",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8b9020-ff",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_24",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target37",
+                        "target_distance": "20.038000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8bad08-100",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_138",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target37",
+                        "target_distance": "20.038000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8bca54-101",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_155",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target37",
+                        "target_distance": "20.038000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8be994-102",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_203",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target37",
+                        "target_distance": "20.038000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8c06e0-103",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_281",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target37",
+                        "target_distance": "20.038000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8c2684-104",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_350",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target37",
+                        "target_distance": "20.038000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8c43d0-105",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_376",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target37",
+                        "target_distance": "20.038000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8c6180-106",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_395",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target37",
+                        "target_distance": "20.038000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8c7ff8-107",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_400",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target37",
+                        "target_distance": "20.038000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8c9d44-108",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_475",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target37",
+                        "target_distance": "20.038000",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8cbaf4-109",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_145",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target38",
+                        "target_distance": "21.104600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8cd9d0-10a",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_219",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target38",
+                        "target_distance": "21.104600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8cfaa0-10b",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_314",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target38",
+                        "target_distance": "21.104600",
+                        "total_cost": "0.000000"
+                    },
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target39",
+                        "target_distance": "14.159600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8d2b74-10c",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_362",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target38",
+                        "target_distance": "21.104600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8d4924-10d",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_142",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target39",
+                        "target_distance": "14.159600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8d6800-10e",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_426",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target39",
+                        "target_distance": "14.159600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            },
+            {
+                "batch_id": "",
+                "grp_id": "634902b8d854c-10f",
+                "grp_type": "1",
+                "oil_cost": "0.000000",
+                "plane_name": "force_468",
+                "targets": [
+                    {
+                        "attack_frepoint": [],
+                        "oil_cost": "0.000000",
+                        "sub_target_name": "target39",
+                        "target_distance": "14.159600",
+                        "total_cost": "0.000000"
+                    }
+                ],
+                "total_cost": "0.000000"
+            }
+        ],
+        "statistics_parameter": [
+            {
+                "TotalUseCost": "0.000000"
+            },
+            {
+                "TotalOilCost": "0.000000"
+            },
+            {
+                "TargetCoverRate": "0.000000"
+            },
+            {
+                "ImpTargetCoverRate": ""
+            }
+        ],
+        "unfinished_target": "",
+        "used_airforce": [
+            {
+                "airport": "base1",
+                "used_plane_name": "force_0,force_1,force_5,force_6,force_9,force_10,force_14,force_18,force_19,force_21,force_22,force_23,force_24,force_25,force_26,force_31,force_32,force_35,force_36,force_38,force_40,force_41,force_43,force_44,force_46,force_48,force_50,force_51,force_55,force_56,force_57,force_60,force_61,force_65,force_67,force_68,force_69,force_73,force_74,force_78,force_79,force_80,force_82,force_84,force_85,force_86,force_88,force_89,force_90,force_93,force_94,force_98,force_99,force_101,force_102,force_103,force_105,force_106,force_107,force_112,force_114,force_117,force_118,force_120,force_121,force_124,force_125,force_126,force_127,force_128,force_129,force_131,force_132,force_134,force_135,force_138,force_139,force_141,force_142,force_145,force_146,force_147,force_149,force_150,force_155,force_156,force_157,force_160,force_162,force_163,force_165,force_169,force_174,force_178,force_180,force_181,force_184,force_185,force_186,force_188,force_191,force_192,force_195,force_196,force_197,force_201,force_202,force_203,force_204,force_208,force_209,force_210,force_211,force_212,force_215,force_217,force_218,force_219,force_222,force_223,force_225,force_227,force_229,force_230,force_233,force_234,force_235,force_236,force_241,force_243,force_244,force_246,force_248,force_249,force_254,force_256,force_257,force_258,force_259,force_260,force_262,force_264,force_265,force_267,force_268,force_270,force_271,force_274,force_275,force_276,force_280,force_281,force_282,force_283,force_286,force_288,force_290,force_294,force_295,force_299,force_300,force_301,force_302,force_303,force_307,force_309,force_310,force_313,force_314,force_317,force_318,force_319,force_321,force_328,force_329,force_330,force_333,force_336,force_337,force_338,force_340,force_342,force_345,force_347,force_348,force_350,force_351,force_352,force_354,force_355,force_356,force_357,force_362,force_363,force_364,force_366,force_368,force_369,force_371,force_375,force_376,force_377,force_378,force_380,force_384,force_387,force_391,force_392,force_393,force_394,force_395,force_397,force_400,force_403,force_404,force_405,force_406,force_407,force_409,force_410,force_411,force_413,force_416,force_418,force_419,force_422,force_424,force_425,force_426,force_429,force_433,force_437,force_439,force_441,force_442,force_443,force_445,force_446,force_453,force_454,force_456,force_458,force_462,force_463,force_464,force_465,force_467,force_468,force_469,force_470,force_473,force_475,force_476,force_477,force_478,force_480,force_481,force_482,force_483,force_484,force_485,force_487,force_488,force_489,force_491,force_492,force_493,force_494,force_496,force_497,force_498,force_499",
+                "used_plane_num": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                "used_plane_type": "plane1,vehical1,plane2,vehical1,vehical1,plane1,vehical1,plane2,plane1,plane2,plane1,plane1,vehical1,plane1,vehical1,plane2,plane2,plane1,vehical1,vehical1,vehical1,plane2,plane2,plane2,vehical1,plane1,vehical1,vehical1,vehical1,plane2,vehical1,vehical1,vehical1,plane2,plane2,vehical1,vehical1,vehical1,plane2,vehical1,plane2,vehical1,plane2,plane2,plane1,plane2,plane1,plane2,vehical1,plane1,plane2,plane2,plane1,vehical1,vehical1,vehical1,vehical1,plane1,vehical1,plane1,plane1,plane1,vehical1,plane1,vehical1,plane2,vehical1,plane1,vehical1,plane2,plane1,plane2,vehical1,vehical1,vehical1,vehical1,plane1,plane1,plane2,plane2,vehical1,plane2,plane2,plane2,vehical1,plane1,vehical1,plane2,plane2,plane2,vehical1,vehical1,plane1,vehical1,vehical1,plane1,vehical1,vehical1,vehical1,vehical1,vehical1,plane1,plane1,plane1,plane2,vehical1,plane1,vehical1,vehical1,plane2,vehical1,vehical1,plane2,vehical1,plane2,plane1,plane1,plane2,plane2,vehical1,vehical1,vehical1,vehical1,vehical1,vehical1,plane1,plane2,vehical1,vehical1,plane1,vehical1,vehical1,plane2,plane2,plane1,vehical1,vehical1,plane2,vehical1,plane1,plane2,vehical1,plane1,vehical1,vehical1,vehical1,plane2,plane2,plane1,plane1,plane2,vehical1,vehical1,plane2,vehical1,vehical1,plane1,plane1,vehical1,plane1,vehical1,vehical1,plane1,plane2,plane2,plane2,plane2,plane1,plane2,vehical1,plane2,plane1,vehical1,plane2,plane2,plane2,plane1,vehical1,vehical1,plane2,vehical1,plane1,plane1,plane2,vehical1,vehical1,vehical1,plane1,plane2,vehical1,plane1,plane1,plane2,vehical1,vehical1,vehical1,plane1,vehical1,vehical1,plane1,vehical1,plane1,plane1,vehical1,plane2,plane2,vehical1,vehical1,plane2,plane1,vehical1,plane2,vehical1,vehical1,plane1,plane1,vehical1,vehical1,plane2,plane2,plane1,vehical1,plane2,vehical1,plane1,plane1,plane2,plane2,plane2,plane2,plane1,vehical1,plane1,vehical1,vehical1,plane2,plane1,plane1,vehical1,plane1,vehical1,plane1,vehical1,plane1,vehical1,vehical1,plane2,plane2,vehical1,plane1,plane1,vehical1,plane1,vehical1,plane1,plane1,plane2,plane1,vehical1,plane1,vehical1,vehical1,plane2,plane1,plane1,vehical1,plane2,vehical1,plane2,vehical1,vehical1,plane2",
+                "used_warhead_num": "",
+                "used_warhead_type": "",
+                "used_weapon_num": "",
+                "used_weapon_type": ""
+            }
+        ]
+    }
+}

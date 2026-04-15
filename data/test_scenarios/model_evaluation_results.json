@@ -1,0 +1,742 @@
+{
+    "algorithm_performance": {
+        "Exact_Time": {
+            "accuracy": 0.3125,
+            "correct": 5,
+            "f1_score": 0.43478260869565216,
+            "precision": 0.7142857142857143,
+            "recall": 0.3125,
+            "total": 16
+        },
+        "Greedy_Cost": {
+            "accuracy": 0.9583333333333334,
+            "correct": 23,
+            "f1_score": 0.9583333333333334,
+            "precision": 0.9583333333333334,
+            "recall": 0.9583333333333334,
+            "total": 24
+        },
+        "Greedy_Difference": {
+            "accuracy": 0.46153846153846156,
+            "correct": 6,
+            "f1_score": 0.6,
+            "precision": 0.8571428571428571,
+            "recall": 0.46153846153846156,
+            "total": 13
+        },
+        "NSGAII": {
+            "accuracy": 0.8888888888888888,
+            "correct": 24,
+            "f1_score": 0.7058823529411764,
+            "precision": 0.5853658536585366,
+            "recall": 0.8888888888888888,
+            "total": 27
+        }
+    },
+    "confusion_matrix": [
+        [
+            5,
+            0,
+            11,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            1,
+            0,
+            24,
+            0,
+            1,
+            1
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            1,
+            23,
+            0
+        ],
+        [
+            1,
+            0,
+            6,
+            0,
+            0,
+            6
+        ]
+    ],
+    "confusion_matrix_labels": [
+        "Exact_Time",
+        "Exact_Cost",
+        "NSGAII",
+        "Greedy_Time",
+        "Greedy_Cost",
+        "Greedy_Difference"
+    ],
+    "detailed_results": [
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_102_T70_R800",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_94_T15_R175",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_128_T40_R467",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_59_T42_R490",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Exact_Time",
+            "scenario_name": "scenario_61_T21_R245",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_27_T73_R800",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_133_T37_R432",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_9_T61_R712",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_88_T10_R117",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_187_T49_R572",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_44_T21_R245",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_157_T80_R800",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_15_T73_R800",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_64_T45_R525",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_82_T6_R70",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_100_T19_R222",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_93_T72_R800",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_77_T76_R800",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_119_T60_R701",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_109_T33_R385",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_70_T38_R444",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_11_T63_R736",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_182_T47_R549",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_73_T63_R736",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Exact_Time",
+            "scenario_name": "scenario_43_T9_R105",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_176_T50_R584",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_194_T77_R800",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_26_T65_R759",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Time",
+            "scenario_name": "scenario_50_T53_R619",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_5_T30_R350",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_161_T59_R689",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_158_T26_R304",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_154_T55_R642",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_46_T76_R800",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_72_T16_R187",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_108_T21_R245",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_86_T48_R560",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Exact_Time",
+            "scenario_name": "scenario_162_T25_R292",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_41_T64_R747",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_122_T53_R619",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_24_T67_R782",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Exact_Time",
+            "scenario_name": "scenario_156_T23_R269",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "Exact_Time",
+            "scenario_name": "scenario_83_T9_R105",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_18_T30_R350",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_139_T76_R800",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_79_T44_R514",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_145_T58_R677",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_22_T79_R800",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_107_T60_R701",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_52_T29_R339",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_136_T42_R490",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_16_T4_R47",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Exact_Time",
+            "scenario_name": "scenario_32_T6_R70",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_68_T8_R93",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_114_T62_R724",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "Greedy_Cost",
+            "scenario_name": "scenario_141_T52_R607",
+            "true_label": "Greedy_Cost"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_33_T17_R198",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_164_T47_R549",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 0.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_146_T24_R280",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": false,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_118_T26_R304",
+            "true_label": "Exact_Time"
+        },
+        {
+            "decision_preference": 1.0,
+            "is_correct": true,
+            "planning_type": "primary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "scenario_184_T50_R584",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": false,
+            "planning_type": "secondary",
+            "predicted_label": "Greedy_Difference",
+            "scenario_name": "secondary_1011_from_scenario_133_ratio50_T55_R432",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": false,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1034_from_scenario_26_ratio30_T84_R759",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "Greedy_Difference",
+            "scenario_name": "secondary_1013_from_scenario_139_ratio100_T152_R800",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": false,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1050_from_scenario_72_ratio-20_T12_R187",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1045_from_scenario_5_ratio0_T23_R350",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "Greedy_Difference",
+            "scenario_name": "secondary_1010_from_scenario_128_ratio60_T64_R467",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": false,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1031_from_scenario_194_ratio0_T60_R800",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": false,
+            "planning_type": "secondary",
+            "predicted_label": "Exact_Time",
+            "scenario_name": "secondary_1028_from_scenario_184_ratio-50_T25_R584",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1012_from_scenario_136_ratio10_T46_R490",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "Greedy_Difference",
+            "scenario_name": "secondary_1033_from_scenario_24_ratio70_T113_R782",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": false,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1058_from_scenario_93_ratio-40_T43_R800",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1007_from_scenario_119_ratio-30_T42_R701",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1042_from_scenario_50_ratio-40_T31_R619",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "Greedy_Difference",
+            "scenario_name": "secondary_1032_from_scenario_22_ratio40_T110_R800",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": false,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1057_from_scenario_88_ratio-20_T8_R117",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": false,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1048_from_scenario_68_ratio40_T11_R93",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "NSGAII",
+            "scenario_name": "secondary_1008_from_scenario_11_ratio-20_T50_R736",
+            "true_label": "NSGAII"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "Greedy_Difference",
+            "scenario_name": "secondary_1000_from_scenario_100_ratio60_T30_R222",
+            "true_label": "Greedy_Difference"
+        },
+        {
+            "decision_preference": 2.0,
+            "is_correct": true,
+            "planning_type": "secondary",
+            "predicted_label": "Greedy_Difference",
+            "scenario_name": "secondary_1060_from_scenario_9_ratio80_T109_R712",
+            "true_label": "Greedy_Difference"
+        }
+    ],
+    "summary": {
+        "accuracy": 0.725,
+        "correct_samples": 58,
+        "evaluation_time": 17695090172871508,
+        "total_samples": 80
+    }
+}

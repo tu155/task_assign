@@ -1,0 +1,163 @@
+{
+    "algorithm_results": [
+        {
+            "algorithm_name": "Greedy_Time",
+            "evaluation_result": {
+                "computation_time": 0.0,
+                "cost_score": 0.0,
+                "coverage_score": 0.0,
+                "detailed_metrics": null,
+                "feasibility_score": 0.0,
+                "is_feasible": false,
+                "resource_score": 0.0,
+                "time_score": 0.0,
+                "total_score": 0.0
+            },
+            "ranking_score": 0.0
+        },
+        {
+            "algorithm_name": "Greedy_Cost",
+            "evaluation_result": {
+                "computation_time": 0.0,
+                "cost_score": 0.0,
+                "coverage_score": 0.0,
+                "detailed_metrics": null,
+                "feasibility_score": 0.0,
+                "is_feasible": false,
+                "resource_score": 0.0,
+                "time_score": 0.0,
+                "total_score": 0.0
+            },
+            "ranking_score": 0.0
+        },
+        {
+            "algorithm_name": "Greedy_Difference",
+            "evaluation_result": {
+                "computation_time": 0.8360833,
+                "cost_score": 0.6032100407304765,
+                "coverage_score": 0.9563909774436089,
+                "detailed_metrics": {
+                    "normalized_scores": {
+                        "cost": 0.6032100407304765,
+                        "coverage": 0.9563909774436089,
+                        "difference": 0.3382132282265816,
+                        "resources": 1.3864818024263432,
+                        "time": 0.8230337862344113
+                    },
+                    "raw_metrics": {
+                        "covered_targets": 106,
+                        "difference": 1.9567146301269531,
+                        "max_completion_time": 0.5150169491525424,
+                        "resource_utilization_rate": 0.62125,
+                        "total_cost": 328.8986691841354,
+                        "total_targets": 133,
+                        "tour_count": 497
+                    }
+                },
+                "feasibility_score": 0.0,
+                "is_feasible": true,
+                "resource_score": 1.3864818024263432,
+                "time_score": 0.8230337862344113,
+                "total_score": 0.6995437745536333
+            },
+            "ranking_score": 0.6995437745536333
+        },
+        {
+            "algorithm_name": "NSGAII",
+            "evaluation_result": {
+                "computation_time": 11.8057919,
+                "cost_score": 0.5948976091070245,
+                "coverage_score": 0.9563909774436089,
+                "detailed_metrics": {
+                    "normalized_scores": {
+                        "cost": 0.5948976091070245,
+                        "coverage": 0.9563909774436089,
+                        "difference": 0.9999890732454119,
+                        "resources": 1.3864818024263432,
+                        "time": 0.8169628268520949
+                    },
+                    "raw_metrics": {
+                        "covered_targets": 106,
+                        "difference": 1.0926873983407859e-05,
+                        "max_completion_time": 0.5240459016393443,
+                        "resource_utilization_rate": 0.62125,
+                        "total_cost": 340.4807690360846,
+                        "total_targets": 133,
+                        "tour_count": 497
+                    }
+                },
+                "feasibility_score": 0.0,
+                "is_feasible": false,
+                "resource_score": 1.3864818024263432,
+                "time_score": 0.8169628268520949,
+                "total_score": 0.0
+            },
+            "ranking_score": 0.0
+        },
+        {
+            "algorithm_name": "Exact_Time",
+            "evaluation_result": {
+                "computation_time": 0.0,
+                "cost_score": 0.0,
+                "coverage_score": 0.0,
+                "detailed_metrics": null,
+                "feasibility_score": 0.0,
+                "is_feasible": false,
+                "resource_score": 0.0,
+                "time_score": 0.0,
+                "total_score": 0.0
+            },
+            "ranking_score": 0.0
+        },
+        {
+            "algorithm_name": "Exact_Cost",
+            "evaluation_result": {
+                "computation_time": 0.0,
+                "cost_score": 0.0,
+                "coverage_score": 0.0,
+                "detailed_metrics": null,
+                "feasibility_score": 0.0,
+                "is_feasible": false,
+                "resource_score": 0.0,
+                "time_score": 0.0,
+                "total_score": 0.0
+            },
+            "ranking_score": 0.0
+        }
+    ],
+    "decision_preference": 2.0,
+    "scenario_name": "secondary_1001_from_scenario_102_ratio90_T133_R800",
+    "statistics": {
+        "counts": {
+            "acceptable_solution_count": 1,
+            "cost_optimal_count": 1,
+            "coverage_optimal_count": 1,
+            "fast_solution_count": 1,
+            "feasible_algorithms": 1,
+            "time_optimal_count": 1,
+            "total_algorithms": 6
+        },
+        "optimal_algorithms": {
+            "cost_optimal": [
+                "Greedy_Difference"
+            ],
+            "coverage_optimal": [
+                "Greedy_Difference"
+            ],
+            "time_optimal": [
+                "Greedy_Difference"
+            ]
+        },
+        "performance_algorithms": {
+            "acceptable_solutions_5s_gap5": [
+                "Greedy_Difference"
+            ],
+            "fast_solutions_1s": [
+                "Greedy_Difference"
+            ]
+        }
+    },
+    "timestamp": 17695087765404081,
+    "total_resources": 800,
+    "total_targets": 133
+}

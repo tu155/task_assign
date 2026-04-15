@@ -1,0 +1,71 @@
+{
+    "optimized_config": {
+        "actual_performance": 0.0,
+        "algorithm_name": "Greedy_Time",
+        "computation_time": 0.0,
+        "expected_performance": 0.0,
+        "parameters": null
+    },
+    "recommended_algorithm": "Greedy_Time",
+    "scenario_features": {
+        "complexity_features": {
+            "constraint_tightness": 0.6467499732971191,
+            "problem_complexity": 4.465397834777832
+        },
+        "decision_preferance": 0.0,
+        "historical_metrics": {
+            "previous_cost": 0.0,
+            "previous_coverage": 0.0,
+            "previous_resource_utilization": 0.0,
+            "previous_time": 0.0
+        },
+        "num_resource_types": 4,
+        "num_resources": 584,
+        "num_target_types": 5,
+        "num_targets": 50,
+        "resource_target_ratio": 11.0,
+        "scenario_name": "scenario_176_T50_R584",
+        "secondary_planning_features": {
+            "is_secondary_planning": false,
+            "original_target_count": 0,
+            "target_change_ratio": 0.0
+        },
+        "statistical_features": {
+            "cost_distribution": {
+                "mean": 0.521953821182251,
+                "std_dev": 0.2892276346683502
+            },
+            "resource_capacity": {
+                "mean": 37.19178009033203,
+                "std_dev": 8.31679630279541
+            },
+            "target_distance": {
+                "max": 0.27083703875541687,
+                "mean": 0.16340705752372742,
+                "min": 0.03674859181046486,
+                "percentiles": [
+                    0.10657024383544922,
+                    0.16770410537719727,
+                    0.21692043542861938
+                ],
+                "std_dev": 0.06478071212768555
+            },
+            "time_window": {
+                "mean": 24.84000015258789,
+                "percentiles": [
+                    16.0,
+                    25.0,
+                    32.0
+                ],
+                "std_dev": 8.983006477355957
+            }
+        },
+        "target_time_urgency": 0.6467499732971191,
+        "topological_features": {
+            "spatial_clustering": 0.8599978089332581,
+            "target_density": 0.11925218999385834
+        }
+    },
+    "scenario_name": "scenario_176_T50_R584",
+    "timestamp": 17689858128564964
+}

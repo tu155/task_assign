@@ -1,0 +1,54 @@
+算法推荐决策规则
+==================
+
+特征说明:
+  [0] num_targets
+  [1] num_resources
+  [2] num_target_types
+  [3] num_resource_types
+  [4] resource_target_ratio
+  [5] target_time_urgency
+  [6] urgency_leveltarget_dist_mean
+  [7] target_dist_std
+  [8] resource_cap_mean
+  [9] resource_cap_std
+  [10] time_window_mean
+  [11] time_window_std
+  [12] cost_mean
+  [13] cost_std
+  [14] spatial_clustering
+  [15] target_density
+  [16] problem_complexity
+  [17] constraint_tightness
+  [18] is_secondary
+  [19] target_change_ratio
+  [20] original_target_count
+  [21] prev_coverage
+  [22] prev_cost
+  [23] prev_time
+  [24] prev_resource_util
+  [25] dist_percentile_25
+  [26] dist_percentile_50
+  [27] dist_percentile_75
+  [28] time_percentile_25
+  [29] time_percentile_50
+
+算法映射:
+  0: Exact_Time
+  1: Exact_Cost
+  2: NSGAII
+  3: Greedy_Time
+  4: Greedy_Cost
+  5: Greedy_Difference
+
+决策树结构:
+  - 最大深度: 3
+  - 最小样本数: 3
+  - 类别数: 5
+
+基于训练数据的经验规则:
+1. 当目标数量 <= 25 且 资源数量 <= 300 时，推荐 Exact 算法
+2. 当时间窗口紧度 > 0.7 时，推荐 NSGAII 算法
+3. 当目标数量 > 40 时，推荐 Greedy_Time 算法
+4. 当资源成本方差 > 0.8 时，推荐 Greedy_Cost 算法
+5. 其他情况根据决策树模型预测

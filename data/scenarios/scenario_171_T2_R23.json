@@ -1,0 +1,504 @@
+{
+    "data": {
+        "asg_parameter": {
+            "grouppertargetnumlimit": "3",
+            "grouproundnumlimit": "1",
+            "maxthreadnumlimit": "0",
+            "targetpergroupnumlimit": "5"
+        },
+        "base_data": {
+            "base_deptimeinterval": "0.409264",
+            "base_name": "base1",
+            "base_position": "116.395332,39.953042"
+        },
+        "forces_list": [
+            {
+                "force_id": "force_0",
+                "force_position": "116.335794,39.838373",
+                "force_type": "plane2",
+                "fuel_cost": "0.235144",
+                "max_distance": "20",
+                "max_speed": "70",
+                "min_speed": "14",
+                "preparation_time": "15",
+                "setup_cost": "0.109988",
+                "weapon_num": "50,50",
+                "weapon_type": "mount2,mount3"
+            },
+            {
+                "force_id": "force_1",
+                "force_position": "116.373706,39.901126",
+                "force_type": "plane1",
+                "fuel_cost": "0.236328",
+                "max_distance": "20",
+                "max_speed": "49",
+                "min_speed": "22",
+                "preparation_time": "17",
+                "setup_cost": "0.320046",
+                "weapon_num": "30",
+                "weapon_type": "mount1"
+            },
+            {
+                "force_id": "force_2",
+                "force_position": "116.456292,39.918669",
+                "force_type": "vehical1",
+                "fuel_cost": "0.581468",
+                "max_distance": "11",
+                "max_speed": "80",
+                "min_speed": "38",
+                "preparation_time": "14",
+                "setup_cost": "0.156634",
+                "weapon_num": "40",
+                "weapon_type": "mount4"
+            },
+            {
+                "force_id": "force_3",
+                "force_position": "116.348712,40.003176",
+                "force_type": "plane1",
+                "fuel_cost": "0.850160",
+                "max_distance": "33",
+                "max_speed": "48",
+                "min_speed": "24",
+                "preparation_time": "32",
+                "setup_cost": "0.136142",
+                "weapon_num": "30",
+                "weapon_type": "mount1"
+            },
+            {
+                "force_id": "force_4",
+                "force_position": "116.415942,39.828571",
+                "force_type": "plane1",
+                "fuel_cost": "0.402079",
+                "max_distance": "37",
+                "max_speed": "52",
+                "min_speed": "10",
+                "preparation_time": "12",
+                "setup_cost": "0.776215",
+                "weapon_num": "30",
+                "weapon_type": "mount1"
+            },
+            {
+                "force_id": "force_5",
+                "force_position": "116.447068,39.891043",
+                "force_type": "plane1",
+                "fuel_cost": "0.758101",
+                "max_distance": "17",
+                "max_speed": "71",
+                "min_speed": "13",
+                "preparation_time": "31",
+                "setup_cost": "0.846357",
+                "weapon_num": "30",
+                "weapon_type": "mount1"
+            },
+            {
+                "force_id": "force_6",
+                "force_position": "116.413828,39.804179",
+                "force_type": "vehical1",
+                "fuel_cost": "0.402462",
+                "max_distance": "30",
+                "max_speed": "77",
+                "min_speed": "14",
+                "preparation_time": "10",
+                "setup_cost": "0.428460",
+                "weapon_num": "40",
+                "weapon_type": "mount4"
+            },
+            {
+                "force_id": "force_7",
+                "force_position": "116.345940,39.990020",
+                "force_type": "vehical1",
+                "fuel_cost": "0.972939",
+                "max_distance": "36",
+                "max_speed": "74",
+                "min_speed": "18",
+                "preparation_time": "35",
+                "setup_cost": "0.266405",
+                "weapon_num": "40",
+                "weapon_type": "mount4"
+            },
+            {
+                "force_id": "force_8",
+                "force_position": "116.403320,40.016003",
+                "force_type": "plane1",
+                "fuel_cost": "0.791935",
+                "max_distance": "15",
+                "max_speed": "59",
+                "min_speed": "25",
+                "preparation_time": "16",
+                "setup_cost": "0.548440",
+                "weapon_num": "30",
+                "weapon_type": "mount1"
+            },
+            {
+                "force_id": "force_9",
+                "force_position": "116.384030,40.006726",
+                "force_type": "plane2",
+                "fuel_cost": "0.962135",
+                "max_distance": "19",
+                "max_speed": "45",
+                "min_speed": "25",
+                "preparation_time": "36",
+                "setup_cost": "0.295402",
+                "weapon_num": "50,50",
+                "weapon_type": "mount2,mount3"
+            },
+            {
+                "force_id": "force_10",
+                "force_position": "116.457961,39.838127",
+                "force_type": "plane2",
+                "fuel_cost": "0.858224",
+                "max_distance": "23",
+                "max_speed": "43",
+                "min_speed": "19",
+                "preparation_time": "13",
+                "setup_cost": "0.256412",
+                "weapon_num": "50,50",
+                "weapon_type": "mount2,mount3"
+            },
+            {
+                "force_id": "force_11",
+                "force_position": "116.429781,39.985033",
+                "force_type": "plane2",
+                "fuel_cost": "0.141684",
+                "max_distance": "25",
+                "max_speed": "49",
+                "min_speed": "12",
+                "preparation_time": "13",
+                "setup_cost": "0.299088",
+                "weapon_num": "50,50",
+                "weapon_type": "mount2,mount3"
+            },
+            {
+                "force_id": "force_12",
+                "force_position": "116.443318,39.813267",
+                "force_type": "plane2",
+                "fuel_cost": "0.366146",
+                "max_distance": "17",
+                "max_speed": "77",
+                "min_speed": "35",
+                "preparation_time": "16",
+                "setup_cost": "0.948393",
+                "weapon_num": "50,50",
+                "weapon_type": "mount2,mount3"
+            },
+            {
+                "force_id": "force_13",
+                "force_position": "116.411259,39.974345",
+                "force_type": "plane2",
+                "fuel_cost": "0.289782",
+                "max_distance": "16",
+                "max_speed": "59",
+                "min_speed": "12",
+                "preparation_time": "22",
+                "setup_cost": "0.061508",
+                "weapon_num": "50,50",
+                "weapon_type": "mount2,mount3"
+            },
+            {
+                "force_id": "force_14",
+                "force_position": "116.445694,39.836241",
+                "force_type": "vehical2",
+                "fuel_cost": "0.648434",
+                "max_distance": "18",
+                "max_speed": "49",
+                "min_speed": "37",
+                "preparation_time": "14",
+                "setup_cost": "0.390068",
+                "weapon_num": "30",
+                "weapon_type": "mount5"
+            },
+            {
+                "force_id": "force_15",
+                "force_position": "116.355957,39.814884",
+                "force_type": "vehical2",
+                "fuel_cost": "0.124659",
+                "max_distance": "17",
+                "max_speed": "54",
+                "min_speed": "34",
+                "preparation_time": "38",
+                "setup_cost": "0.523558",
+                "weapon_num": "30",
+                "weapon_type": "mount5"
+            },
+            {
+                "force_id": "force_16",
+                "force_position": "116.326878,39.790291",
+                "force_type": "plane1",
+                "fuel_cost": "0.625007",
+                "max_distance": "24",
+                "max_speed": "78",
+                "min_speed": "39",
+                "preparation_time": "21",
+                "setup_cost": "0.513114",
+                "weapon_num": "30",
+                "weapon_type": "mount1"
+            },
+            {
+                "force_id": "force_17",
+                "force_position": "116.408226,39.951626",
+                "force_type": "vehical1",
+                "fuel_cost": "0.212252",
+                "max_distance": "21",
+                "max_speed": "56",
+                "min_speed": "25",
+                "preparation_time": "34",
+                "setup_cost": "0.856074",
+                "weapon_num": "40",
+                "weapon_type": "mount4"
+            },
+            {
+                "force_id": "force_18",
+                "force_position": "116.467903,40.011515",
+                "force_type": "plane1",
+                "fuel_cost": "0.020805",
+                "max_distance": "36",
+                "max_speed": "48",
+                "min_speed": "15",
+                "preparation_time": "12",
+                "setup_cost": "0.439510",
+                "weapon_num": "30",
+                "weapon_type": "mount1"
+            },
+            {
+                "force_id": "force_19",
+                "force_position": "116.353489,39.965867",
+                "force_type": "vehical2",
+                "fuel_cost": "0.670965",
+                "max_distance": "24",
+                "max_speed": "41",
+                "min_speed": "33",
+                "preparation_time": "27",
+                "setup_cost": "0.830585",
+                "weapon_num": "30",
+                "weapon_type": "mount5"
+            },
+            {
+                "force_id": "force_20",
+                "force_position": "116.391247,39.868891",
+                "force_type": "vehical2",
+                "fuel_cost": "0.718874",
+                "max_distance": "10",
+                "max_speed": "76",
+                "min_speed": "10",
+                "preparation_time": "29",
+                "setup_cost": "0.131347",
+                "weapon_num": "30",
+                "weapon_type": "mount5"
+            },
+            {
+                "force_id": "force_21",
+                "force_position": "116.397234,39.884560",
+                "force_type": "vehical1",
+                "fuel_cost": "0.686840",
+                "max_distance": "17",
+                "max_speed": "55",
+                "min_speed": "40",
+                "preparation_time": "33",
+                "setup_cost": "0.386232",
+                "weapon_num": "40",
+                "weapon_type": "mount4"
+            },
+            {
+                "force_id": "force_22",
+                "force_position": "116.352515,39.910811",
+                "force_type": "plane2",
+                "fuel_cost": "0.742560",
+                "max_distance": "39",
+                "max_speed": "53",
+                "min_speed": "26",
+                "preparation_time": "18",
+                "setup_cost": "0.835457",
+                "weapon_num": "50,50",
+                "weapon_type": "mount2,mount3"
+            }
+        ],
+        "mount_attribute": [
+            {
+                "is_occupypied": "0",
+                "load_list": "load3",
+                "mount_cost": "1600",
+                "mount_name": "mount1",
+                "mount_type_name": "mount3",
+                "range": "640",
+                "required_time": "300",
+                "stock_num": "10000",
+                "test": "1"
+            },
+            {
+                "is_occupypied": "0",
+                "load_list": "load1",
+                "mount_cost": "1600",
+                "mount_name": "mount2",
+                "mount_type_name": "mount1",
+                "range": "640",
+                "required_time": "300",
+                "stock_num": "10000",
+                "test": "1"
+            },
+            {
+                "is_occupypied": "0",
+                "load_list": "load4",
+                "mount_cost": "1600",
+                "mount_name": "mount3",
+                "mount_type_name": "mount4",
+                "range": "640",
+                "required_time": "300",
+                "stock_num": "10000",
+                "test": "1"
+            },
+            {
+                "is_occupypied": "0",
+                "load_list": "load1",
+                "mount_cost": "1600",
+                "mount_name": "mount4",
+                "mount_type_name": "mount1",
+                "range": "640",
+                "required_time": "300",
+                "stock_num": "10000",
+                "test": "1"
+            },
+            {
+                "is_occupypied": "0",
+                "load_list": "load4",
+                "mount_cost": "1600",
+                "mount_name": "mount5",
+                "mount_type_name": "mount4",
+                "range": "640",
+                "required_time": "300",
+                "stock_num": "10000",
+                "test": "1"
+            },
+            {
+                "is_occupypied": "0",
+                "load_list": "load1",
+                "mount_cost": "1600",
+                "mount_name": "mount6",
+                "mount_type_name": "mount1",
+                "range": "640",
+                "required_time": "300",
+                "stock_num": "10000",
+                "test": "1"
+            },
+            {
+                "is_occupypied": "0",
+                "load_list": "load1",
+                "mount_cost": "1600",
+                "mount_name": "mount7",
+                "mount_type_name": "mount1",
+                "range": "640",
+                "required_time": "300",
+                "stock_num": "10000",
+                "test": "1"
+            },
+            {
+                "is_occupypied": "0",
+                "load_list": "load4",
+                "mount_cost": "1600",
+                "mount_name": "mount8",
+                "mount_type_name": "mount4",
+                "range": "640",
+                "required_time": "300",
+                "stock_num": "10000",
+                "test": "1"
+            },
+            {
+                "is_occupypied": "0",
+                "load_list": "load1",
+                "mount_cost": "1600",
+                "mount_name": "mount9",
+                "mount_type_name": "mount1",
+                "range": "640",
+                "required_time": "300",
+                "stock_num": "10000",
+                "test": "1"
+            },
+            {
+                "is_occupypied": "0",
+                "load_list": "load2",
+                "mount_cost": "1600",
+                "mount_name": "mount10",
+                "mount_type_name": "mount2",
+                "range": "640",
+                "required_time": "300",
+                "stock_num": "10000",
+                "test": "1"
+            }
+        ],
+        "mount_type": [
+            {
+                "grp_num_ub": "2",
+                "interval_time": "40",
+                "mount_type_name": "mount1"
+            },
+            {
+                "grp_num_ub": "2",
+                "interval_time": "40",
+                "mount_type_name": "mount2"
+            },
+            {
+                "grp_num_ub": "2",
+                "interval_time": "40",
+                "mount_type_name": "mount3"
+            },
+            {
+                "grp_num_ub": "2",
+                "interval_time": "40",
+                "mount_type_name": "mount4"
+            },
+            {
+                "grp_num_ub": "2",
+                "interval_time": "40",
+                "mount_type_name": "mount5"
+            }
+        ],
+        "muilti_plan_parameter": {
+            "costfailure": "0",
+            "costfair": "0",
+            "costoil": "0",
+            "costuse": "0",
+            "plan_name": "1",
+            "plan_type": "economic_first",
+            "rate": "1",
+            "status": "true"
+        },
+        "target_list": [
+            {
+                "appearance_time": "2025-01-01 00:00:00",
+                "batch_id": "batch0",
+                "leadtime": "16",
+                "target_id": "target0",
+                "target_position": "116.330160,39.791904",
+                "target_priority": "0.052138",
+                "target_type": "target_type2",
+                "target_type_max_mount": "3",
+                "weapon_num": "240",
+                "weapon_type": "mount4#load4"
+            },
+            {
+                "appearance_time": "2025-01-01 00:00:00",
+                "batch_id": "batch0",
+                "leadtime": "11",
+                "target_id": "target1",
+                "target_position": "116.418712,39.815827",
+                "target_priority": "0.328304",
+                "target_type": "target_type1",
+                "target_type_max_mount": "3",
+                "weapon_num": "120",
+                "weapon_type": "mount1#load1"
+            }
+        ],
+        "trainning_frequency": null,
+        "warhead_cost": {
+            "load_type": "0.0"
+        }
+    },
+    "scenario_features": {
+        "decision_preference": "cost",
+        "num_resource_types": 7,
+        "num_resources": 23,
+        "num_target_types": 3,
+        "num_targets": 2,
+        "scenario_id": 171,
+        "urgency_level": 0.48924999999999996
+    }
+}
